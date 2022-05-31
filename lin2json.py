@@ -2,7 +2,7 @@ import json
 
 data={}
 
-for i in range(74806, 74808):
+for i in range(1, 74808):
     with open('raw_file/' + str(i) + '.lin', 'r') as f:
         game = f.read().splitlines()
         

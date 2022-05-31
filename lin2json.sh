@@ -7,7 +7,7 @@ else
     echo "Raw data not exist."
     mkdir -p $DATA
     echo "Downloading raw data."
-    for i in {74800..74807}; do
+    for i in {1..74807}; do
         wget https://www.bridgebase.com/tools/vugraph_linfetch.php?id=$i -O $DATA/$i.lin
     done
     echo "Downloading finish."
