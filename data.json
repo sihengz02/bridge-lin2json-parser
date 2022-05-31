@@ -1,0 +1,9704 @@
+{
+  "id-74806-o1": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #1",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "d6",
+            "d8",
+            "dQ",
+            "h2",
+            "h3",
+            "h7",
+            "h9",
+            "hK",
+            "s5",
+            "s7",
+            "s8",
+            "sQ",
+            "sA"
+          ],
+          "W": [
+            "c2",
+            "c3",
+            "c4",
+            "c5",
+            "c6",
+            "cK",
+            "d5",
+            "h8",
+            "hJ",
+            "hA",
+            "s2",
+            "sT",
+            "sJ"
+          ],
+          "N": [
+            "cT",
+            "cA",
+            "d2",
+            "d7",
+            "dT",
+            "dJ",
+            "dK",
+            "dA",
+            "h5",
+            "hQ",
+            "s3",
+            "s6",
+            "s9"
+          ],
+          "E": [
+            "c7",
+            "c8",
+            "c9",
+            "cJ",
+            "cQ",
+            "d3",
+            "d4",
+            "d9",
+            "h4",
+            "h6",
+            "hT",
+            "s4",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "1D",
+          "p",
+          "1S",
+          "p",
+          "3S",
+          "p",
+          "4S",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4S",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "d5",
+          "dA",
+          "d3",
+          "d6"
+        ],
+        [
+          "s3",
+          "s4",
+          "sQ",
+          "s2"
+        ],
+        [
+          "sA",
+          "sT",
+          "s6",
+          "sK"
+        ],
+        [
+          "d8"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 11,
+          "EW": 2
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c1": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #1",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "d6",
+            "d8",
+            "dQ",
+            "h2",
+            "h3",
+            "h7",
+            "h9",
+            "hK",
+            "s5",
+            "s7",
+            "s8",
+            "sQ",
+            "sA"
+          ],
+          "W": [
+            "c2",
+            "c3",
+            "c4",
+            "c5",
+            "c6",
+            "cK",
+            "d5",
+            "h8",
+            "hJ",
+            "hA",
+            "s2",
+            "sT",
+            "sJ"
+          ],
+          "N": [
+            "cT",
+            "cA",
+            "d2",
+            "d7",
+            "dT",
+            "dJ",
+            "dK",
+            "dA",
+            "h5",
+            "hQ",
+            "s3",
+            "s6",
+            "s9"
+          ],
+          "E": [
+            "c7",
+            "c8",
+            "c9",
+            "cJ",
+            "cQ",
+            "d3",
+            "d4",
+            "d9",
+            "h4",
+            "h6",
+            "hT",
+            "s4",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "3D",
+          "p",
+          "3S",
+          "p",
+          "4C",
+          "p",
+          "4D",
+          "p",
+          "4H",
+          "p",
+          "4S",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4S",
+        "declarer": "N"
+      },
+      "card_play": [
+        [
+          "cQ",
+          "h2",
+          "c2",
+          "cA"
+        ],
+        [
+          "s3",
+          "s4",
+          "s7",
+          "sT"
+        ],
+        [
+          "c3",
+          "cT",
+          "cJ",
+          "s8"
+        ],
+        [
+          "d6",
+          "d5",
+          "dA",
+          "d3"
+        ],
+        [
+          "s9",
+          "sK",
+          "sA",
+          "s2"
+        ],
+        [
+          "sQ",
+          "sJ",
+          "s6",
+          "d4"
+        ],
+        [
+          "h3",
+          "h8",
+          "hQ",
+          "h6"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 12,
+          "EW": 1
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o2": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #2",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c5",
+            "c9",
+            "cT",
+            "cJ",
+            "cQ",
+            "cA",
+            "d4",
+            "d6",
+            "d7",
+            "dQ",
+            "h4",
+            "h7",
+            "sT"
+          ],
+          "W": [
+            "c3",
+            "c4",
+            "c7",
+            "d2",
+            "d5",
+            "dJ",
+            "h9",
+            "hT",
+            "hJ",
+            "hK",
+            "s5",
+            "s6",
+            "sQ"
+          ],
+          "N": [
+            "c2",
+            "cK",
+            "d8",
+            "dT",
+            "dA",
+            "h3",
+            "h5",
+            "h6",
+            "hQ",
+            "hA",
+            "s2",
+            "s4",
+            "sJ"
+          ],
+          "E": [
+            "c6",
+            "c8",
+            "d3",
+            "d9",
+            "dK",
+            "h2",
+            "h8",
+            "s3",
+            "s7",
+            "s8",
+            "s9",
+            "sK",
+            "sA"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1S",
+          "2C",
+          "2S",
+          "d",
+          "3S",
+          "p",
+          "p",
+          "d",
+          "p",
+          "4C",
+          "p",
+          "5C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5C",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "s5",
+          "s2",
+          "sA",
+          "sT"
+        ],
+        [
+          "s3",
+          "c5",
+          "s6",
+          "s4"
+        ],
+        [
+          "h4",
+          "hJ",
+          "hQ",
+          "h2"
+        ],
+        [
+          "d8",
+          "d3",
+          "dQ",
+          "d2"
+        ],
+        [
+          "d4",
+          "d5",
+          "dA",
+          "d9"
+        ],
+        [
+          "hA",
+          "h8",
+          "h7",
+          "h9"
+        ],
+        [
+          "dT",
+          "dK"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 11,
+          "EW": 2
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c2": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #2",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c5",
+            "c9",
+            "cT",
+            "cJ",
+            "cQ",
+            "cA",
+            "d4",
+            "d6",
+            "d7",
+            "dQ",
+            "h4",
+            "h7",
+            "sT"
+          ],
+          "W": [
+            "c3",
+            "c4",
+            "c7",
+            "d2",
+            "d5",
+            "dJ",
+            "h9",
+            "hT",
+            "hJ",
+            "hK",
+            "s5",
+            "s6",
+            "sQ"
+          ],
+          "N": [
+            "c2",
+            "cK",
+            "d8",
+            "dT",
+            "dA",
+            "h3",
+            "h5",
+            "h6",
+            "hQ",
+            "hA",
+            "s2",
+            "s4",
+            "sJ"
+          ],
+          "E": [
+            "c6",
+            "c8",
+            "d3",
+            "d9",
+            "dK",
+            "h2",
+            "h8",
+            "s3",
+            "s7",
+            "s8",
+            "s9",
+            "sK",
+            "sA"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1S",
+          "3C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3C",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "s5",
+          "s2",
+          "sK",
+          "sT"
+        ],
+        [
+          "sA",
+          "c5",
+          "s6",
+          "s4"
+        ],
+        [
+          "d4",
+          "d5",
+          "dA",
+          "d3"
+        ],
+        [
+          "d8",
+          "dK",
+          "d7",
+          "d2"
+        ],
+        [
+          "d9",
+          "dQ",
+          "dJ",
+          "dT"
+        ],
+        [
+          "c9",
+          "c3",
+          "cK",
+          "c6"
+        ],
+        [
+          "c2",
+          "c8",
+          "cT",
+          "c4"
+        ],
+        [
+          "cA",
+          "c7",
+          "h3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 11,
+          "EW": 2
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o3": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #3",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c5",
+            "d8",
+            "d9",
+            "h3",
+            "h4",
+            "h8",
+            "hJ",
+            "hQ",
+            "hK",
+            "hA",
+            "s2",
+            "s5",
+            "sT"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "cT",
+            "cK",
+            "d2",
+            "d3",
+            "d6",
+            "dJ",
+            "dQ",
+            "dK",
+            "h9",
+            "s7",
+            "s8"
+          ],
+          "N": [
+            "c2",
+            "c7",
+            "cJ",
+            "cQ",
+            "cA",
+            "d5",
+            "d7",
+            "h2",
+            "h6",
+            "h7",
+            "sJ",
+            "sK",
+            "sA"
+          ],
+          "E": [
+            "c3",
+            "c4",
+            "c8",
+            "d4",
+            "dT",
+            "dA",
+            "h5",
+            "hT",
+            "s3",
+            "s4",
+            "s6",
+            "s9",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "4H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4H",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "dK",
+          "d5",
+          "dA",
+          "d8"
+        ],
+        [
+          "dT",
+          "d9",
+          "dQ",
+          "d7"
+        ],
+        [
+          "d3",
+          "sJ",
+          "d4",
+          "h3"
+        ],
+        [
+          "hA",
+          "h9",
+          "h2",
+          "h5"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 11,
+          "EW": 2
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c3": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #3",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c5",
+            "d8",
+            "d9",
+            "h3",
+            "h4",
+            "h8",
+            "hJ",
+            "hQ",
+            "hK",
+            "hA",
+            "s2",
+            "s5",
+            "sT"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "cT",
+            "cK",
+            "d2",
+            "d3",
+            "d6",
+            "dJ",
+            "dQ",
+            "dK",
+            "h9",
+            "s7",
+            "s8"
+          ],
+          "N": [
+            "c2",
+            "c7",
+            "cJ",
+            "cQ",
+            "cA",
+            "d5",
+            "d7",
+            "h2",
+            "h6",
+            "h7",
+            "sJ",
+            "sK",
+            "sA"
+          ],
+          "E": [
+            "c3",
+            "c4",
+            "c8",
+            "d4",
+            "dT",
+            "dA",
+            "h5",
+            "hT",
+            "s3",
+            "s4",
+            "s6",
+            "s9",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1H",
+          "3D",
+          "4C",
+          "p",
+          "4H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4H",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "dK",
+          "d5",
+          "dA",
+          "d8"
+        ],
+        [
+          "dT",
+          "d9",
+          "dJ",
+          "d7"
+        ],
+        [
+          "dQ",
+          "h7",
+          "d4",
+          "s5"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 11,
+          "EW": 2
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o4": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #4",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "c4",
+            "c5",
+            "c7",
+            "c8",
+            "cK",
+            "d3",
+            "d4",
+            "d8",
+            "dT",
+            "s5",
+            "s7",
+            "s9"
+          ],
+          "W": [
+            "c2",
+            "cA",
+            "d2",
+            "d5",
+            "d9",
+            "dA",
+            "hK",
+            "hA",
+            "s4",
+            "s6",
+            "sT",
+            "sJ",
+            "sK"
+          ],
+          "N": [
+            "cT",
+            "cJ",
+            "cQ",
+            "d7",
+            "dJ",
+            "dQ",
+            "h2",
+            "h3",
+            "h4",
+            "h8",
+            "h9",
+            "hT",
+            "sA"
+          ],
+          "E": [
+            "c6",
+            "c9",
+            "d6",
+            "dK",
+            "h5",
+            "h6",
+            "h7",
+            "hJ",
+            "hQ",
+            "s2",
+            "s3",
+            "s8",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "2N",
+          "p",
+          "3D",
+          "p",
+          "3S",
+          "p",
+          "4S",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4S",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "h4",
+          "h5",
+          "s5",
+          "hK"
+        ],
+        [
+          "c5",
+          "cA",
+          "cQ",
+          "c6"
+        ],
+        [
+          "sJ",
+          "sA",
+          "s2",
+          "s7"
+        ],
+        [
+          "h3",
+          "h6",
+          "s9",
+          "hA"
+        ],
+        [
+          "cK",
+          "c2",
+          "cT",
+          "c9"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 4,
+          "EW": 9
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c4": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #4",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "c4",
+            "c5",
+            "c7",
+            "c8",
+            "cK",
+            "d3",
+            "d4",
+            "d8",
+            "dT",
+            "s5",
+            "s7",
+            "s9"
+          ],
+          "W": [
+            "c2",
+            "cA",
+            "d2",
+            "d5",
+            "d9",
+            "dA",
+            "hK",
+            "hA",
+            "s4",
+            "s6",
+            "sT",
+            "sJ",
+            "sK"
+          ],
+          "N": [
+            "cT",
+            "cJ",
+            "cQ",
+            "d7",
+            "dJ",
+            "dQ",
+            "h2",
+            "h3",
+            "h4",
+            "h8",
+            "h9",
+            "hT",
+            "sA"
+          ],
+          "E": [
+            "c6",
+            "c9",
+            "d6",
+            "dK",
+            "h5",
+            "h6",
+            "h7",
+            "hJ",
+            "hQ",
+            "s2",
+            "s3",
+            "s8",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "1S",
+          "p",
+          "4S",
+          "p",
+          "4N",
+          "p",
+          "5C",
+          "p",
+          "5S",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5S",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "cJ",
+          "c6",
+          "c3",
+          "cA"
+        ],
+        [
+          "sT",
+          "sA",
+          "s2",
+          "s9"
+        ],
+        [
+          "h8",
+          "h5",
+          "s5",
+          "hK"
+        ],
+        [
+          "c7",
+          "c2",
+          "cT",
+          "c9"
+        ],
+        [
+          "h4",
+          "h6",
+          "s7",
+          "hA"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 4,
+          "EW": 9
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o5": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #5",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c9",
+            "cT",
+            "d5",
+            "dT",
+            "h5",
+            "h6",
+            "h7",
+            "h8",
+            "s6",
+            "s7",
+            "s9",
+            "sA"
+          ],
+          "W": [
+            "c3",
+            "c6",
+            "c7",
+            "cJ",
+            "cK",
+            "d7",
+            "dJ",
+            "h2",
+            "h4",
+            "hK",
+            "s5",
+            "s8",
+            "sT"
+          ],
+          "N": [
+            "c5",
+            "cQ",
+            "d2",
+            "d4",
+            "d6",
+            "d9",
+            "h3",
+            "hT",
+            "hJ",
+            "hQ",
+            "hA",
+            "s3",
+            "s4"
+          ],
+          "E": [
+            "c4",
+            "c8",
+            "cA",
+            "d3",
+            "d8",
+            "dQ",
+            "dK",
+            "dA",
+            "h9",
+            "s2",
+            "sJ",
+            "sQ",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "p",
+          "1D",
+          "p",
+          "1N",
+          "p",
+          "2S",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "s3",
+          "sK",
+          "sA",
+          "s5"
+        ],
+        [
+          "h7",
+          "h2",
+          "hT",
+          "h9"
+        ],
+        [
+          "hA",
+          "c4",
+          "h5",
+          "h4"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c5": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #5",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c9",
+            "cT",
+            "d5",
+            "dT",
+            "h5",
+            "h6",
+            "h7",
+            "h8",
+            "s6",
+            "s7",
+            "s9",
+            "sA"
+          ],
+          "W": [
+            "c3",
+            "c6",
+            "c7",
+            "cJ",
+            "cK",
+            "d7",
+            "dJ",
+            "h2",
+            "h4",
+            "hK",
+            "s5",
+            "s8",
+            "sT"
+          ],
+          "N": [
+            "c5",
+            "cQ",
+            "d2",
+            "d4",
+            "d6",
+            "d9",
+            "h3",
+            "hT",
+            "hJ",
+            "hQ",
+            "hA",
+            "s3",
+            "s4"
+          ],
+          "E": [
+            "c4",
+            "c8",
+            "cA",
+            "d3",
+            "d8",
+            "dQ",
+            "dK",
+            "dA",
+            "h9",
+            "s2",
+            "sJ",
+            "sQ",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "p",
+          "1D",
+          "p",
+          "1N",
+          "2H",
+          "2S",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "hQ",
+          "h9",
+          "h8",
+          "hK"
+        ],
+        [
+          "dJ",
+          "d2",
+          "d3",
+          "d5"
+        ],
+        [
+          "d7",
+          "d4",
+          "dA",
+          "dT"
+        ],
+        [
+          "dK",
+          "h7",
+          "h4",
+          "d6"
+        ],
+        [
+          "dQ",
+          "h6",
+          "h2",
+          "d9"
+        ],
+        [
+          "d8",
+          "s6",
+          "s5",
+          "s3"
+        ],
+        [
+          "cA",
+          "c2",
+          "c3",
+          "c5"
+        ],
+        [
+          "c4",
+          "c9",
+          "cJ",
+          "cQ"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 6,
+          "EW": 7
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o6": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #6",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "cT",
+            "cQ",
+            "cK",
+            "d5",
+            "dJ",
+            "h2",
+            "h6",
+            "h7",
+            "h8",
+            "hK",
+            "s2",
+            "s9"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "d3",
+            "d7",
+            "dK",
+            "h3",
+            "h9",
+            "hQ",
+            "s3",
+            "s4",
+            "s6",
+            "sT",
+            "sK"
+          ],
+          "N": [
+            "c4",
+            "c7",
+            "c8",
+            "cA",
+            "d4",
+            "dT",
+            "h4",
+            "h5",
+            "hT",
+            "s8",
+            "sJ",
+            "sQ",
+            "sA"
+          ],
+          "E": [
+            "c3",
+            "c5",
+            "cJ",
+            "d2",
+            "d6",
+            "d8",
+            "d9",
+            "dQ",
+            "dA",
+            "hJ",
+            "hA",
+            "s5",
+            "s7"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1D",
+          "p",
+          "1S",
+          "p",
+          "1N",
+          "p",
+          "2S",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "2S",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "h5",
+          "hJ",
+          "hK",
+          "h9"
+        ],
+        [
+          "cQ",
+          "c6",
+          "c8",
+          "c3"
+        ],
+        [
+          "s2",
+          "sT",
+          "sJ",
+          "s5"
+        ],
+        [
+          "c4",
+          "c5",
+          "cT",
+          "c9"
+        ],
+        [
+          "s9",
+          "sK",
+          "sA",
+          "s7"
+        ],
+        [
+          "sQ",
+          "d2",
+          "h8",
+          "s3"
+        ],
+        [
+          "s8",
+          "d6",
+          "h2",
+          "s4"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 7,
+          "EW": 6
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c6": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #6",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "cT",
+            "cQ",
+            "cK",
+            "d5",
+            "dJ",
+            "h2",
+            "h6",
+            "h7",
+            "h8",
+            "hK",
+            "s2",
+            "s9"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "d3",
+            "d7",
+            "dK",
+            "h3",
+            "h9",
+            "hQ",
+            "s3",
+            "s4",
+            "s6",
+            "sT",
+            "sK"
+          ],
+          "N": [
+            "c4",
+            "c7",
+            "c8",
+            "cA",
+            "d4",
+            "dT",
+            "h4",
+            "h5",
+            "hT",
+            "s8",
+            "sJ",
+            "sQ",
+            "sA"
+          ],
+          "E": [
+            "c3",
+            "c5",
+            "cJ",
+            "d2",
+            "d6",
+            "d8",
+            "d9",
+            "dQ",
+            "dA",
+            "hJ",
+            "hA",
+            "s5",
+            "s7"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1D",
+          "1H",
+          "1S",
+          "p",
+          "2D",
+          "p",
+          "p",
+          "2H",
+          "p",
+          "p",
+          "3D",
+          "3H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3H",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "c6",
+          "cA",
+          "c5",
+          "c2"
+        ],
+        [
+          "h4",
+          "hJ",
+          "hK",
+          "h3"
+        ],
+        [
+          "h2",
+          "hQ",
+          "h5",
+          "hA"
+        ],
+        [
+          "dA",
+          "d5",
+          "d3",
+          "d4"
+        ],
+        [
+          "d2",
+          "dJ",
+          "dK",
+          "dT"
+        ],
+        [
+          "c9",
+          "c4",
+          "cJ",
+          "cK"
+        ],
+        [
+          "h6",
+          "h9",
+          "hT",
+          "d6"
+        ],
+        [
+          "c7",
+          "c3",
+          "cQ",
+          "s3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 10,
+          "EW": 3
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o7": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #7",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c4",
+            "c5",
+            "c9",
+            "d2",
+            "d4",
+            "dK",
+            "dA",
+            "h3",
+            "h5",
+            "h9",
+            "hA",
+            "s2"
+          ],
+          "W": [
+            "c6",
+            "d6",
+            "d7",
+            "dJ",
+            "dQ",
+            "h6",
+            "h7",
+            "hT",
+            "s3",
+            "s4",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "N": [
+            "c7",
+            "cT",
+            "cA",
+            "d8",
+            "dT",
+            "h2",
+            "h8",
+            "hJ",
+            "sT",
+            "sJ",
+            "sQ",
+            "sK",
+            "sA"
+          ],
+          "E": [
+            "c3",
+            "c8",
+            "cJ",
+            "cQ",
+            "cK",
+            "d3",
+            "d5",
+            "d9",
+            "h4",
+            "hQ",
+            "hK",
+            "s5",
+            "s9"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1H",
+          "p",
+          "1S",
+          "p",
+          "2D",
+          "p",
+          "3C",
+          "d",
+          "p",
+          "p",
+          "3H",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "c6",
+          "c7",
+          "cK",
+          "c2"
+        ],
+        [
+          "cQ",
+          "c4",
+          "s3",
+          "cA"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 10,
+          "EW": 3
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c7": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #7",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c4",
+            "c5",
+            "c9",
+            "d2",
+            "d4",
+            "dK",
+            "dA",
+            "h3",
+            "h5",
+            "h9",
+            "hA",
+            "s2"
+          ],
+          "W": [
+            "c6",
+            "d6",
+            "d7",
+            "dJ",
+            "dQ",
+            "h6",
+            "h7",
+            "hT",
+            "s3",
+            "s4",
+            "s6",
+            "s7",
+            "s8"
+          ],
+          "N": [
+            "c7",
+            "cT",
+            "cA",
+            "d8",
+            "dT",
+            "h2",
+            "h8",
+            "hJ",
+            "sT",
+            "sJ",
+            "sQ",
+            "sK",
+            "sA"
+          ],
+          "E": [
+            "c3",
+            "c8",
+            "cJ",
+            "cQ",
+            "cK",
+            "d3",
+            "d5",
+            "d9",
+            "h4",
+            "hQ",
+            "hK",
+            "s5",
+            "s9"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1D",
+          "p",
+          "1N",
+          "p",
+          "2D",
+          "p",
+          "2H",
+          "p",
+          "2S",
+          "p",
+          "2N",
+          "p",
+          "3C",
+          "p",
+          "3D",
+          "p",
+          "3S",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "N"
+      },
+      "card_play": [
+        [
+          "cK"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 9,
+          "EW": 4
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o8": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #8",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "cT",
+            "cK",
+            "d8",
+            "dA",
+            "h3",
+            "h6",
+            "h7",
+            "hT",
+            "hA",
+            "s2",
+            "s4",
+            "s7",
+            "sJ"
+          ],
+          "W": [
+            "c5",
+            "c6",
+            "c7",
+            "cQ",
+            "d2",
+            "d5",
+            "d6",
+            "d9",
+            "h4",
+            "hQ",
+            "s6",
+            "sT",
+            "sA"
+          ],
+          "N": [
+            "c2",
+            "c3",
+            "c8",
+            "c9",
+            "d3",
+            "d4",
+            "d7",
+            "dQ",
+            "h5",
+            "h8",
+            "s3",
+            "s8",
+            "sK"
+          ],
+          "E": [
+            "c4",
+            "cJ",
+            "cA",
+            "dT",
+            "dJ",
+            "dK",
+            "h2",
+            "h9",
+            "hJ",
+            "hK",
+            "s5",
+            "s9",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "p",
+          "p",
+          "1N",
+          "2C",
+          "2N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "2N",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "h6",
+          "h4",
+          "h8",
+          "h9"
+        ],
+        [
+          "dK",
+          "dA",
+          "d2",
+          "d3"
+        ],
+        [
+          "h3",
+          "hQ",
+          "h5",
+          "h2"
+        ],
+        [
+          "d5",
+          "d4",
+          "dJ",
+          "d8"
+        ],
+        [
+          "dT",
+          "s4",
+          "d6",
+          "dQ"
+        ],
+        [
+          "c8",
+          "c4",
+          "cK",
+          "c5"
+        ],
+        [
+          "cT",
+          "c6",
+          "c2",
+          "cA"
+        ],
+        [
+          "cJ",
+          "h7",
+          "c7",
+          "c3"
+        ],
+        [
+          "hJ",
+          "hA",
+          "s6",
+          "s3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 4,
+          "EW": 9
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c8": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #8",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "cT",
+            "cK",
+            "d8",
+            "dA",
+            "h3",
+            "h6",
+            "h7",
+            "hT",
+            "hA",
+            "s2",
+            "s4",
+            "s7",
+            "sJ"
+          ],
+          "W": [
+            "c5",
+            "c6",
+            "c7",
+            "cQ",
+            "d2",
+            "d5",
+            "d6",
+            "d9",
+            "h4",
+            "hQ",
+            "s6",
+            "sT",
+            "sA"
+          ],
+          "N": [
+            "c2",
+            "c3",
+            "c8",
+            "c9",
+            "d3",
+            "d4",
+            "d7",
+            "dQ",
+            "h5",
+            "h8",
+            "s3",
+            "s8",
+            "sK"
+          ],
+          "E": [
+            "c4",
+            "cJ",
+            "cA",
+            "dT",
+            "dJ",
+            "dK",
+            "h2",
+            "h9",
+            "hJ",
+            "hK",
+            "s5",
+            "s9",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "p",
+          "p",
+          "1N",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "2H",
+          "2N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "2N",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "h6",
+          "h4",
+          "h5",
+          "h9"
+        ],
+        [
+          "dK",
+          "d8",
+          "d2",
+          "d7"
+        ],
+        [
+          "dT",
+          "dA",
+          "d5",
+          "d3"
+        ],
+        [
+          "s2",
+          "s6",
+          "sK",
+          "s5"
+        ],
+        [
+          "s8",
+          "s9",
+          "sJ",
+          "sA"
+        ],
+        [
+          "c5",
+          "c2",
+          "cJ",
+          "cK"
+        ],
+        [
+          "s4",
+          "sT",
+          "s3",
+          "sQ"
+        ],
+        [
+          "h2",
+          "h3",
+          "hQ",
+          "h8"
+        ],
+        [
+          "cQ",
+          "c3",
+          "c4",
+          "cT"
+        ],
+        [
+          "c6",
+          "c8",
+          "cA",
+          "hT"
+        ],
+        [
+          "hK",
+          "hA",
+          "c7"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 5,
+          "EW": 8
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o9": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #9",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c8",
+            "cT",
+            "d4",
+            "dK",
+            "h2",
+            "h6",
+            "h7",
+            "h9",
+            "s3",
+            "s9",
+            "sJ",
+            "sK"
+          ],
+          "W": [
+            "c4",
+            "c9",
+            "cJ",
+            "cQ",
+            "dT",
+            "dJ",
+            "h3",
+            "hJ",
+            "hA",
+            "s6",
+            "s7",
+            "sT",
+            "sA"
+          ],
+          "N": [
+            "c3",
+            "c5",
+            "c7",
+            "cA",
+            "d3",
+            "d8",
+            "h4",
+            "h5",
+            "h8",
+            "hT",
+            "s2",
+            "s4",
+            "sQ"
+          ],
+          "E": [
+            "c6",
+            "cK",
+            "d2",
+            "d5",
+            "d6",
+            "d7",
+            "d9",
+            "dQ",
+            "dA",
+            "hQ",
+            "hK",
+            "s5",
+            "s8"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "p",
+          "1D",
+          "p",
+          "1S",
+          "p",
+          "3D",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "h4",
+          "hQ",
+          "h6",
+          "hA"
+        ],
+        [
+          "dJ",
+          "d3",
+          "d2",
+          "dK"
+        ],
+        [
+          "sJ",
+          "s6",
+          "s2",
+          "s5"
+        ],
+        [
+          "s3",
+          "sA",
+          "sQ",
+          "s8"
+        ],
+        [
+          "dT",
+          "d8",
+          "dA",
+          "d4"
+        ],
+        [
+          "dQ",
+          "h2"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c9": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #9",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c8",
+            "cT",
+            "d4",
+            "dK",
+            "h2",
+            "h6",
+            "h7",
+            "h9",
+            "s3",
+            "s9",
+            "sJ",
+            "sK"
+          ],
+          "W": [
+            "c4",
+            "c9",
+            "cJ",
+            "cQ",
+            "dT",
+            "dJ",
+            "h3",
+            "hJ",
+            "hA",
+            "s6",
+            "s7",
+            "sT",
+            "sA"
+          ],
+          "N": [
+            "c3",
+            "c5",
+            "c7",
+            "cA",
+            "d3",
+            "d8",
+            "h4",
+            "h5",
+            "h8",
+            "hT",
+            "s2",
+            "s4",
+            "sQ"
+          ],
+          "E": [
+            "c6",
+            "cK",
+            "d2",
+            "d5",
+            "d6",
+            "d7",
+            "d9",
+            "dQ",
+            "dA",
+            "hQ",
+            "hK",
+            "s5",
+            "s8"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "p",
+          "1D",
+          "p",
+          "1S",
+          "p",
+          "3D",
+          "p",
+          "4D",
+          "p",
+          "4S",
+          "p",
+          "5D",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5D",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "s3",
+          "sA",
+          "s4",
+          "s5"
+        ],
+        [
+          "h3",
+          "h4",
+          "hK",
+          "h2"
+        ],
+        [
+          "hQ",
+          "h6",
+          "hA",
+          "h5"
+        ],
+        [
+          "hJ",
+          "h8",
+          "s8",
+          "h7"
+        ],
+        [
+          "dT",
+          "d3",
+          "d2",
+          "dK"
+        ],
+        [
+          "sK",
+          "s6"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 2,
+          "EW": 11
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o10": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #10",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "c4",
+            "cT",
+            "cQ",
+            "cA",
+            "d5",
+            "d9",
+            "dT",
+            "h5",
+            "h6",
+            "hT",
+            "hQ",
+            "hK"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "d3",
+            "d7",
+            "d8",
+            "dQ",
+            "dK",
+            "h4",
+            "h9",
+            "s3",
+            "s8",
+            "sT",
+            "sA"
+          ],
+          "N": [
+            "c5",
+            "c7",
+            "c8",
+            "cJ",
+            "d4",
+            "dJ",
+            "h2",
+            "s2",
+            "s5",
+            "s6",
+            "s7",
+            "sJ",
+            "sK"
+          ],
+          "E": [
+            "c2",
+            "cK",
+            "d2",
+            "d6",
+            "dA",
+            "h3",
+            "h7",
+            "h8",
+            "hJ",
+            "hA",
+            "s4",
+            "s9",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1H",
+          "2C",
+          "d",
+          "4C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4C",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "h9",
+          "h2",
+          "hA",
+          "h6"
+        ],
+        [
+          "d2",
+          "d5",
+          "dQ",
+          "d4"
+        ],
+        [
+          "d8",
+          "dJ",
+          "dA",
+          "d9"
+        ],
+        [
+          "c2",
+          "c3",
+          "c6",
+          "c7"
+        ],
+        [
+          "s2",
+          "s9",
+          "c4",
+          "s3"
+        ],
+        [
+          "dT",
+          "d3",
+          "c5",
+          "d6"
+        ],
+        [
+          "s5",
+          "s4",
+          "cT",
+          "s8"
+        ],
+        [
+          "hK",
+          "h4",
+          "s6",
+          "h3"
+        ],
+        [
+          "hQ",
+          "c9",
+          "cJ",
+          "h7"
+        ],
+        [
+          "s7",
+          "sQ",
+          "cQ",
+          "sT"
+        ],
+        [
+          "h5",
+          "d7",
+          "c8",
+          "h8"
+        ],
+        [
+          "sJ",
+          "cK",
+          "cA",
+          "sA"
+        ],
+        [
+          "hT",
+          "dK",
+          "sK",
+          "hJ"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 9,
+          "EW": 4
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c10": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #10",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "c4",
+            "cT",
+            "cQ",
+            "cA",
+            "d5",
+            "d9",
+            "dT",
+            "h5",
+            "h6",
+            "hT",
+            "hQ",
+            "hK"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "d3",
+            "d7",
+            "d8",
+            "dQ",
+            "dK",
+            "h4",
+            "h9",
+            "s3",
+            "s8",
+            "sT",
+            "sA"
+          ],
+          "N": [
+            "c5",
+            "c7",
+            "c8",
+            "cJ",
+            "d4",
+            "dJ",
+            "h2",
+            "s2",
+            "s5",
+            "s6",
+            "s7",
+            "sJ",
+            "sK"
+          ],
+          "E": [
+            "c2",
+            "cK",
+            "d2",
+            "d6",
+            "dA",
+            "h3",
+            "h7",
+            "h8",
+            "hJ",
+            "hA",
+            "s4",
+            "s9",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1H",
+          "p",
+          "1S",
+          "p",
+          "1N",
+          "2C",
+          "p",
+          "p",
+          "2S",
+          "p",
+          "p",
+          "d",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "2S",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "h2",
+          "h3",
+          "hT",
+          "h4"
+        ],
+        [
+          "hQ",
+          "h9",
+          "s2",
+          "h7"
+        ],
+        [
+          "c5",
+          "cK",
+          "cA",
+          "c6"
+        ],
+        [
+          "h5",
+          "c9",
+          "s5",
+          "h8"
+        ],
+        [
+          "cJ",
+          "c2",
+          "cQ",
+          "s3"
+        ],
+        [
+          "s8",
+          "sK",
+          "s4",
+          "d5"
+        ],
+        [
+          "s6",
+          "s9",
+          "c3",
+          "sT"
+        ],
+        [
+          "dK",
+          "d4",
+          "d2",
+          "d9"
+        ],
+        [
+          "d3",
+          "dJ",
+          "dA",
+          "dT"
+        ],
+        [
+          "d6",
+          "c4",
+          "dQ",
+          "s7"
+        ],
+        [
+          "c7",
+          "hJ",
+          "cT",
+          "sA"
+        ],
+        [
+          "d7"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 6,
+          "EW": 7
+        },
+        "winner": "NS",
+        "double": "x"
+      }
+    }
+  },
+  "id-74806-o11": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #11",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "cJ",
+            "cQ",
+            "d4",
+            "d5",
+            "dJ",
+            "s2",
+            "s3",
+            "s4",
+            "s7",
+            "s8",
+            "s9",
+            "sT"
+          ],
+          "W": [
+            "c3",
+            "c5",
+            "c7",
+            "cT",
+            "cK",
+            "d2",
+            "d3",
+            "dQ",
+            "dA",
+            "h8",
+            "s5",
+            "s6",
+            "sA"
+          ],
+          "N": [
+            "c2",
+            "c9",
+            "cA",
+            "d6",
+            "d7",
+            "d8",
+            "h2",
+            "h4",
+            "h5",
+            "h6",
+            "hJ",
+            "sJ",
+            "sQ"
+          ],
+          "E": [
+            "c6",
+            "c8",
+            "d9",
+            "dT",
+            "dK",
+            "h3",
+            "h7",
+            "h9",
+            "hT",
+            "hQ",
+            "hK",
+            "hA",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "2D",
+          "p",
+          "3H",
+          "4H",
+          "4S",
+          "d",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4S",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "h8",
+          "h2",
+          "hT",
+          "s3"
+        ],
+        [
+          "s2",
+          "s5",
+          "sJ",
+          "sK"
+        ],
+        [
+          "hA",
+          "s7",
+          "c5",
+          "h4"
+        ],
+        [
+          "s4",
+          "sA",
+          "sQ",
+          "h9"
+        ],
+        [
+          "d3",
+          "d6",
+          "dK",
+          "d4"
+        ],
+        [
+          "dT",
+          "dJ",
+          "dQ",
+          "d7"
+        ],
+        [
+          "dA",
+          "d8",
+          "d9",
+          "d5"
+        ],
+        [
+          "d2",
+          "h5",
+          "h3",
+          "s8"
+        ],
+        [
+          "sT",
+          "s6",
+          "h6",
+          "h7"
+        ],
+        [
+          "cQ",
+          "cK",
+          "cA",
+          "c6"
+        ],
+        [
+          "c2",
+          "c8",
+          "cJ",
+          "c3"
+        ],
+        [
+          "c4",
+          "cT",
+          "c9",
+          "hQ"
+        ],
+        [
+          "c7",
+          "hJ",
+          "hK",
+          "s9"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 7,
+          "EW": 6
+        },
+        "winner": "EW",
+        "double": "x"
+      }
+    }
+  },
+  "id-74806-c11": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #11",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "cJ",
+            "cQ",
+            "d4",
+            "d5",
+            "dJ",
+            "s2",
+            "s3",
+            "s4",
+            "s7",
+            "s8",
+            "s9",
+            "sT"
+          ],
+          "W": [
+            "c3",
+            "c5",
+            "c7",
+            "cT",
+            "cK",
+            "d2",
+            "d3",
+            "dQ",
+            "dA",
+            "h8",
+            "s5",
+            "s6",
+            "sA"
+          ],
+          "N": [
+            "c2",
+            "c9",
+            "cA",
+            "d6",
+            "d7",
+            "d8",
+            "h2",
+            "h4",
+            "h5",
+            "h6",
+            "hJ",
+            "sJ",
+            "sQ"
+          ],
+          "E": [
+            "c6",
+            "c8",
+            "d9",
+            "dT",
+            "dK",
+            "h3",
+            "h7",
+            "h9",
+            "hT",
+            "hQ",
+            "hK",
+            "hA",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "2D",
+          "p",
+          "2S",
+          "4H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4H",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "cQ",
+          "cK",
+          "cA",
+          "c8"
+        ],
+        [
+          "sQ",
+          "sK",
+          "s2",
+          "s5"
+        ],
+        [
+          "dT",
+          "d5",
+          "dQ",
+          "d8"
+        ],
+        [
+          "sA",
+          "sJ",
+          "c6",
+          "s3"
+        ],
+        [
+          "h8",
+          "h6",
+          "h9",
+          "s4"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 2,
+          "EW": 11
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o12": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #12",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "c5",
+            "c8",
+            "cJ",
+            "cK",
+            "d9",
+            "dT",
+            "h3",
+            "h6",
+            "hT",
+            "hA",
+            "sJ",
+            "sQ"
+          ],
+          "W": [
+            "c9",
+            "cQ",
+            "d3",
+            "d5",
+            "dJ",
+            "dQ",
+            "h2",
+            "h9",
+            "s2",
+            "s3",
+            "s7",
+            "sK",
+            "sA"
+          ],
+          "N": [
+            "c4",
+            "c6",
+            "c7",
+            "cT",
+            "d2",
+            "d4",
+            "d6",
+            "h5",
+            "h8",
+            "s4",
+            "s6",
+            "s8",
+            "s9"
+          ],
+          "E": [
+            "c2",
+            "cA",
+            "d7",
+            "d8",
+            "dK",
+            "dA",
+            "h4",
+            "h7",
+            "hJ",
+            "hQ",
+            "hK",
+            "s5",
+            "sT"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "1S",
+          "p",
+          "2H",
+          "p",
+          "2S",
+          "p",
+          "3D",
+          "p",
+          "3H",
+          "p",
+          "3S",
+          "p",
+          "4D",
+          "p",
+          "4H",
+          "p",
+          "4S",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4S",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "c4",
+          "c2",
+          "cK",
+          "c9"
+        ],
+        [
+          "h3",
+          "h2",
+          "h8",
+          "hK"
+        ],
+        [
+          "s5",
+          "sJ",
+          "sK",
+          "s4"
+        ],
+        [
+          "sA",
+          "s6",
+          "sT",
+          "sQ"
+        ],
+        [
+          "s2",
+          "s8",
+          "h4",
+          "c3"
+        ],
+        [
+          "s9"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 4,
+          "EW": 9
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c12": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #12",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "c5",
+            "c8",
+            "cJ",
+            "cK",
+            "d9",
+            "dT",
+            "h3",
+            "h6",
+            "hT",
+            "hA",
+            "sJ",
+            "sQ"
+          ],
+          "W": [
+            "c9",
+            "cQ",
+            "d3",
+            "d5",
+            "dJ",
+            "dQ",
+            "h2",
+            "h9",
+            "s2",
+            "s3",
+            "s7",
+            "sK",
+            "sA"
+          ],
+          "N": [
+            "c4",
+            "c6",
+            "c7",
+            "cT",
+            "d2",
+            "d4",
+            "d6",
+            "h5",
+            "h8",
+            "s4",
+            "s6",
+            "s8",
+            "s9"
+          ],
+          "E": [
+            "c2",
+            "cA",
+            "d7",
+            "d8",
+            "dK",
+            "dA",
+            "h4",
+            "h7",
+            "hJ",
+            "hQ",
+            "hK",
+            "s5",
+            "sT"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "1S",
+          "p",
+          "2H",
+          "p",
+          "2S",
+          "p",
+          "3D",
+          "p",
+          "3H",
+          "p",
+          "4C",
+          "p",
+          "5D",
+          "p",
+          "6C",
+          "p",
+          "6D",
+          "p",
+          "6H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "6H",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "sJ",
+          "sK",
+          "s6",
+          "s5"
+        ],
+        [
+          "h2",
+          "h5",
+          "hK",
+          "h3"
+        ],
+        [
+          "d8",
+          "d9",
+          "dQ",
+          "d4"
+        ],
+        [
+          "h9",
+          "h8",
+          "hJ",
+          "hA"
+        ],
+        [
+          "sQ",
+          "sA",
+          "s4",
+          "sT"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 2,
+          "EW": 11
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o13": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #13",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "c5",
+            "c8",
+            "cT",
+            "cA",
+            "d2",
+            "d5",
+            "h5",
+            "h6",
+            "hJ",
+            "hA",
+            "s8",
+            "sK"
+          ],
+          "W": [
+            "c2",
+            "c7",
+            "cK",
+            "d3",
+            "d4",
+            "d6",
+            "d8",
+            "dQ",
+            "h7",
+            "h9",
+            "s7",
+            "s9",
+            "sA"
+          ],
+          "N": [
+            "c3",
+            "c9",
+            "cJ",
+            "cQ",
+            "dJ",
+            "h2",
+            "hT",
+            "s2",
+            "s4",
+            "s5",
+            "sT",
+            "sJ",
+            "sQ"
+          ],
+          "E": [
+            "c6",
+            "d7",
+            "d9",
+            "dT",
+            "dK",
+            "dA",
+            "h3",
+            "h4",
+            "h8",
+            "hQ",
+            "hK",
+            "s3",
+            "s6"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "2D",
+          "2H",
+          "d",
+          "r",
+          "2S",
+          "2N",
+          "p",
+          "3C",
+          "p",
+          "3D",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3D",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "sK",
+          "sA",
+          "sQ",
+          "s3"
+        ],
+        [
+          "d3",
+          "dJ",
+          "dA",
+          "d2"
+        ],
+        [
+          "dK",
+          "d5",
+          "d4",
+          "s2"
+        ],
+        [
+          "c6",
+          "cA",
+          "c2",
+          "c3"
+        ],
+        [
+          "s8",
+          "s7",
+          "sT",
+          "s6"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c13": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #13",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "c5",
+            "c8",
+            "cT",
+            "cA",
+            "d2",
+            "d5",
+            "h5",
+            "h6",
+            "hJ",
+            "hA",
+            "s8",
+            "sK"
+          ],
+          "W": [
+            "c2",
+            "c7",
+            "cK",
+            "d3",
+            "d4",
+            "d6",
+            "d8",
+            "dQ",
+            "h7",
+            "h9",
+            "s7",
+            "s9",
+            "sA"
+          ],
+          "N": [
+            "c3",
+            "c9",
+            "cJ",
+            "cQ",
+            "dJ",
+            "h2",
+            "hT",
+            "s2",
+            "s4",
+            "s5",
+            "sT",
+            "sJ",
+            "sQ"
+          ],
+          "E": [
+            "c6",
+            "d7",
+            "d9",
+            "dT",
+            "dK",
+            "dA",
+            "h3",
+            "h4",
+            "h8",
+            "hQ",
+            "hK",
+            "s3",
+            "s6"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "2D",
+          "2H",
+          "2S",
+          "3H",
+          "3S",
+          "4D",
+          "p",
+          "5D",
+          "p",
+          "p",
+          "d",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5D",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "sK",
+          "sA",
+          "sQ",
+          "s6"
+        ],
+        [
+          "d3",
+          "dJ",
+          "dA",
+          "d2"
+        ],
+        [
+          "c6",
+          "cA",
+          "c2",
+          "c3"
+        ],
+        [
+          "s8",
+          "s9",
+          "sT",
+          "s3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "NS",
+        "double": "x"
+      }
+    }
+  },
+  "id-74806-o14": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #14",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c9",
+            "cA",
+            "h3",
+            "h8",
+            "hT",
+            "hJ",
+            "hQ",
+            "hA",
+            "s4",
+            "sT",
+            "sK",
+            "sA"
+          ],
+          "W": [
+            "c5",
+            "c8",
+            "d5",
+            "d6",
+            "d8",
+            "dQ",
+            "dA",
+            "h2",
+            "hK",
+            "s7",
+            "s9",
+            "sJ",
+            "sQ"
+          ],
+          "N": [
+            "c3",
+            "c7",
+            "cJ",
+            "cQ",
+            "cK",
+            "d4",
+            "d9",
+            "dT",
+            "h4",
+            "h5",
+            "h6",
+            "s2",
+            "s8"
+          ],
+          "E": [
+            "c4",
+            "c6",
+            "cT",
+            "d2",
+            "d3",
+            "d7",
+            "dJ",
+            "dK",
+            "h7",
+            "h9",
+            "s3",
+            "s5",
+            "s6"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "p",
+          "1C",
+          "1D",
+          "p",
+          "3D",
+          "d",
+          "p",
+          "5C",
+          "p",
+          "6C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "6C",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "dA",
+          "d4",
+          "d3",
+          "c2"
+        ],
+        [
+          "sA",
+          "s7",
+          "s2",
+          "s3"
+        ],
+        [
+          "sK",
+          "s9",
+          "s8",
+          "s5"
+        ],
+        [
+          "s4",
+          "sQ",
+          "c3",
+          "s6"
+        ],
+        [
+          "h4",
+          "h7",
+          "hQ",
+          "hK"
+        ],
+        [
+          "c5",
+          "c7",
+          "cT",
+          "cA"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 12,
+          "EW": 1
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c14": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #14",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c9",
+            "cA",
+            "h3",
+            "h8",
+            "hT",
+            "hJ",
+            "hQ",
+            "hA",
+            "s4",
+            "sT",
+            "sK",
+            "sA"
+          ],
+          "W": [
+            "c5",
+            "c8",
+            "d5",
+            "d6",
+            "d8",
+            "dQ",
+            "dA",
+            "h2",
+            "hK",
+            "s7",
+            "s9",
+            "sJ",
+            "sQ"
+          ],
+          "N": [
+            "c3",
+            "c7",
+            "cJ",
+            "cQ",
+            "cK",
+            "d4",
+            "d9",
+            "dT",
+            "h4",
+            "h5",
+            "h6",
+            "s2",
+            "s8"
+          ],
+          "E": [
+            "c4",
+            "c6",
+            "cT",
+            "d2",
+            "d3",
+            "d7",
+            "dJ",
+            "dK",
+            "h7",
+            "h9",
+            "s3",
+            "s5",
+            "s6"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "p",
+          "1H",
+          "d",
+          "1N",
+          "2D",
+          "4D",
+          "5D",
+          "p",
+          "p",
+          "6C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "6C",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "dA",
+          "d4",
+          "d2",
+          "c2"
+        ],
+        [
+          "hQ",
+          "hK",
+          "h4",
+          "h7"
+        ],
+        [
+          "sQ",
+          "s2",
+          "s3",
+          "sA"
+        ],
+        [
+          "cA",
+          "c5",
+          "c3",
+          "c4"
+        ],
+        [
+          "c9",
+          "c8"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 12,
+          "EW": 1
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o15": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #15",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c6",
+            "cQ",
+            "cA",
+            "d6",
+            "dK",
+            "hJ",
+            "hQ",
+            "hK",
+            "hA",
+            "s7",
+            "s9",
+            "sT"
+          ],
+          "W": [
+            "c5",
+            "cJ",
+            "cK",
+            "d3",
+            "d9",
+            "dJ",
+            "dA",
+            "h4",
+            "h5",
+            "h7",
+            "s8",
+            "sQ",
+            "sA"
+          ],
+          "N": [
+            "c3",
+            "c4",
+            "c7",
+            "c8",
+            "c9",
+            "d2",
+            "d4",
+            "d7",
+            "h3",
+            "h8",
+            "s4",
+            "s5",
+            "sJ"
+          ],
+          "E": [
+            "cT",
+            "d5",
+            "d8",
+            "dT",
+            "dQ",
+            "h2",
+            "h6",
+            "h9",
+            "hT",
+            "s2",
+            "s3",
+            "s6",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1C",
+          "p",
+          "1D",
+          "p",
+          "1N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "1N",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "d3",
+          "d2",
+          "dQ",
+          "dK"
+        ],
+        [
+          "hA",
+          "h4",
+          "h3",
+          "h2"
+        ],
+        [
+          "hK",
+          "h5",
+          "h8",
+          "h6"
+        ],
+        [
+          "hQ",
+          "h7",
+          "c3",
+          "h9"
+        ],
+        [
+          "hJ",
+          "s8",
+          "d4",
+          "hT"
+        ],
+        [
+          "cA",
+          "c5",
+          "c4",
+          "cT"
+        ],
+        [
+          "sT",
+          "sQ",
+          "s4",
+          "s2"
+        ],
+        [
+          "sA",
+          "s5",
+          "s3",
+          "s7"
+        ],
+        [
+          "d9",
+          "d7",
+          "dT",
+          "d6"
+        ],
+        [
+          "sK",
+          "s9",
+          "cJ",
+          "sJ"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 6,
+          "EW": 7
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c15": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #15",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c6",
+            "cQ",
+            "cA",
+            "d6",
+            "dK",
+            "hJ",
+            "hQ",
+            "hK",
+            "hA",
+            "s7",
+            "s9",
+            "sT"
+          ],
+          "W": [
+            "c5",
+            "cJ",
+            "cK",
+            "d3",
+            "d9",
+            "dJ",
+            "dA",
+            "h4",
+            "h5",
+            "h7",
+            "s8",
+            "sQ",
+            "sA"
+          ],
+          "N": [
+            "c3",
+            "c4",
+            "c7",
+            "c8",
+            "c9",
+            "d2",
+            "d4",
+            "d7",
+            "h3",
+            "h8",
+            "s4",
+            "s5",
+            "sJ"
+          ],
+          "E": [
+            "cT",
+            "d5",
+            "d8",
+            "dT",
+            "dQ",
+            "h2",
+            "h6",
+            "h9",
+            "hT",
+            "s2",
+            "s3",
+            "s6",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1C",
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "2D",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "h3",
+          "h2",
+          "hJ",
+          "h4"
+        ],
+        [
+          "hQ",
+          "h5",
+          "h8",
+          "h6"
+        ],
+        [
+          "hK",
+          "h7",
+          "c4",
+          "h9"
+        ],
+        [
+          "hA",
+          "dJ",
+          "c3",
+          "hT"
+        ],
+        [
+          "s8",
+          "s5",
+          "sK",
+          "s7"
+        ],
+        [
+          "d8",
+          "d6",
+          "d3",
+          "d4"
+        ],
+        [
+          "d5",
+          "dK",
+          "dA",
+          "d2"
+        ],
+        [
+          "d9",
+          "d7",
+          "dT",
+          "c2"
+        ],
+        [
+          "cT",
+          "cA",
+          "c5",
+          "c7"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 4,
+          "EW": 9
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-o16": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #16",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Hopfenheit",
+        "W": "von Arnim",
+        "N": "Reim",
+        "E": "H\u00e4usler"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c5",
+            "c7",
+            "cJ",
+            "d4",
+            "dQ",
+            "h4",
+            "h5",
+            "h9",
+            "hA",
+            "s2",
+            "s3",
+            "s4",
+            "sA"
+          ],
+          "W": [
+            "c2",
+            "c4",
+            "c6",
+            "c8",
+            "c9",
+            "cT",
+            "cQ",
+            "cA",
+            "d8",
+            "d9",
+            "s6",
+            "s8",
+            "s9"
+          ],
+          "N": [
+            "d6",
+            "d7",
+            "dT",
+            "dJ",
+            "h2",
+            "h6",
+            "h8",
+            "hJ",
+            "hQ",
+            "hK",
+            "s5",
+            "s7",
+            "sJ"
+          ],
+          "E": [
+            "c3",
+            "cK",
+            "d2",
+            "d3",
+            "d5",
+            "dK",
+            "dA",
+            "h3",
+            "h7",
+            "hT",
+            "sT",
+            "sQ",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "3C",
+          "p",
+          "p",
+          "d",
+          "p",
+          "4H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4H",
+        "declarer": "N"
+      },
+      "card_play": [
+        [
+          "dA",
+          "dQ",
+          "d8",
+          "d7"
+        ],
+        [
+          "dK",
+          "d4",
+          "d9",
+          "d6"
+        ],
+        [
+          "cK",
+          "c5",
+          "cA",
+          "h2"
+        ],
+        [
+          "hK",
+          "h3",
+          "h4",
+          "c4"
+        ],
+        [
+          "h6",
+          "h7",
+          "hA",
+          "c6"
+        ],
+        [
+          "h5",
+          "c2",
+          "hQ",
+          "hT"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 10,
+          "EW": 3
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74806-c16": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #16",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74806",
+      "players": {
+        "S": "Gawel",
+        "W": "Schilhart",
+        "N": "Jagniewski",
+        "E": "Buchlev"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c5",
+            "c7",
+            "cJ",
+            "d4",
+            "dQ",
+            "h4",
+            "h5",
+            "h9",
+            "hA",
+            "s2",
+            "s3",
+            "s4",
+            "sA"
+          ],
+          "W": [
+            "c2",
+            "c4",
+            "c6",
+            "c8",
+            "c9",
+            "cT",
+            "cQ",
+            "cA",
+            "d8",
+            "d9",
+            "s6",
+            "s8",
+            "s9"
+          ],
+          "N": [
+            "d6",
+            "d7",
+            "dT",
+            "dJ",
+            "h2",
+            "h6",
+            "h8",
+            "hJ",
+            "hQ",
+            "hK",
+            "s5",
+            "s7",
+            "sJ"
+          ],
+          "E": [
+            "c3",
+            "cK",
+            "d2",
+            "d3",
+            "d5",
+            "dK",
+            "dA",
+            "h3",
+            "h7",
+            "hT",
+            "sT",
+            "sQ",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "3C",
+          "3H",
+          "4C",
+          "4H",
+          "p",
+          "p",
+          "5C",
+          "d",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5C",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "hQ",
+          "h3",
+          "hA",
+          "c4"
+        ],
+        [
+          "cQ",
+          "h2",
+          "c3",
+          "c5"
+        ],
+        [
+          "c2",
+          "h6",
+          "cK",
+          "c7"
+        ],
+        [
+          "h7",
+          "h5",
+          "c6",
+          "h8"
+        ],
+        [
+          "cA",
+          "hJ",
+          "hT",
+          "cJ"
+        ],
+        [
+          "d9",
+          "d6",
+          "dA",
+          "d4"
+        ],
+        [
+          "dK",
+          "dQ",
+          "d8",
+          "d7"
+        ],
+        [
+          "d2",
+          "s2",
+          "c8",
+          "dT"
+        ],
+        [
+          "s6",
+          "s5",
+          "sK",
+          "s3"
+        ],
+        [
+          "d3",
+          "h4",
+          "c9",
+          "dJ"
+        ],
+        [
+          "s8",
+          "s7",
+          "sT",
+          "sA"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 1,
+          "EW": 12
+        },
+        "winner": "EW",
+        "double": "x"
+      }
+    }
+  },
+  "id-74807-o17": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #17",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "c7",
+            "c8",
+            "cT",
+            "d2",
+            "d3",
+            "d5",
+            "d8",
+            "d9",
+            "h4",
+            "h5",
+            "s2",
+            "s4"
+          ],
+          "W": [
+            "c3",
+            "cK",
+            "d4",
+            "dQ",
+            "h3",
+            "h7",
+            "h8",
+            "h9",
+            "hT",
+            "s3",
+            "s6",
+            "sQ",
+            "sK"
+          ],
+          "N": [
+            "c5",
+            "c6",
+            "cA",
+            "d6",
+            "dT",
+            "dJ",
+            "dA",
+            "hJ",
+            "hQ",
+            "hA",
+            "s5",
+            "s8",
+            "sA"
+          ],
+          "E": [
+            "c2",
+            "c9",
+            "cJ",
+            "cQ",
+            "d7",
+            "dK",
+            "h2",
+            "h6",
+            "hK",
+            "s7",
+            "s9",
+            "sT",
+            "sJ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "2N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "2N",
+        "declarer": "N"
+      },
+      "card_play": [
+        [
+          "sJ",
+          "s2",
+          "s3",
+          "s5"
+        ],
+        [
+          "sT",
+          "s4",
+          "s6",
+          "s8"
+        ],
+        [
+          "s7",
+          "h4",
+          "sQ",
+          "sA"
+        ],
+        [
+          "dA",
+          "d7",
+          "d2",
+          "d4"
+        ],
+        [
+          "dT",
+          "dK",
+          "d3",
+          "dQ"
+        ],
+        [
+          "s9",
+          "c4",
+          "sK",
+          "c5"
+        ],
+        [
+          "hT",
+          "hQ",
+          "hK",
+          "h5"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 8,
+          "EW": 5
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c17": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #17",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "c7",
+            "c8",
+            "cT",
+            "d2",
+            "d3",
+            "d5",
+            "d8",
+            "d9",
+            "h4",
+            "h5",
+            "s2",
+            "s4"
+          ],
+          "W": [
+            "c3",
+            "cK",
+            "d4",
+            "dQ",
+            "h3",
+            "h7",
+            "h8",
+            "h9",
+            "hT",
+            "s3",
+            "s6",
+            "sQ",
+            "sK"
+          ],
+          "N": [
+            "c5",
+            "c6",
+            "cA",
+            "d6",
+            "dT",
+            "dJ",
+            "dA",
+            "hJ",
+            "hQ",
+            "hA",
+            "s5",
+            "s8",
+            "sA"
+          ],
+          "E": [
+            "c2",
+            "c9",
+            "cJ",
+            "cQ",
+            "d7",
+            "dK",
+            "h2",
+            "h6",
+            "hK",
+            "s7",
+            "s9",
+            "sT",
+            "sJ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "2N",
+          "p",
+          "3C",
+          "p",
+          "3D",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3D",
+        "declarer": "N"
+      },
+      "card_play": [
+        [
+          "sJ",
+          "s2",
+          "s6",
+          "s5"
+        ],
+        [
+          "s9",
+          "s4",
+          "sQ",
+          "sA"
+        ],
+        [
+          "dA",
+          "d7",
+          "d2",
+          "d4"
+        ],
+        [
+          "s8",
+          "s7",
+          "d8",
+          "s3"
+        ],
+        [
+          "h4",
+          "h7",
+          "hQ",
+          "hK"
+        ],
+        [
+          "dK",
+          "d3",
+          "dQ",
+          "d6"
+        ],
+        [
+          "cQ",
+          "c4",
+          "c3",
+          "cA"
+        ],
+        [
+          "hA",
+          "h2",
+          "h5",
+          "h3"
+        ],
+        [
+          "hJ",
+          "h6",
+          "c7",
+          "h8"
+        ],
+        [
+          "c5",
+          "cJ",
+          "c8",
+          "cK"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 9,
+          "EW": 4
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o18": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #18",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "c7",
+            "cK",
+            "dJ",
+            "dA",
+            "h2",
+            "h4",
+            "h5",
+            "h7",
+            "hK",
+            "s2",
+            "s7",
+            "s8"
+          ],
+          "W": [
+            "c3",
+            "c6",
+            "cT",
+            "d7",
+            "d9",
+            "dQ",
+            "dK",
+            "hQ",
+            "hA",
+            "s4",
+            "s5",
+            "s6",
+            "sJ"
+          ],
+          "N": [
+            "c5",
+            "c8",
+            "cJ",
+            "d2",
+            "d6",
+            "h3",
+            "h6",
+            "h8",
+            "hJ",
+            "s3",
+            "s9",
+            "sQ",
+            "sK"
+          ],
+          "E": [
+            "c2",
+            "c9",
+            "cQ",
+            "cA",
+            "d3",
+            "d4",
+            "d5",
+            "d8",
+            "dT",
+            "h9",
+            "hT",
+            "sT",
+            "sA"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1D",
+          "p",
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "2H",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "sK",
+          "sA",
+          "s8",
+          "s5"
+        ],
+        [
+          "d3",
+          "dA",
+          "d9",
+          "d2"
+        ],
+        [
+          "s7",
+          "s4",
+          "sQ",
+          "sT"
+        ],
+        [
+          "s3",
+          "c2",
+          "s2",
+          "s6"
+        ],
+        [
+          "c3",
+          "c8",
+          "cQ",
+          "cK"
+        ],
+        [
+          "h4",
+          "hQ",
+          "h3",
+          "h9"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c18": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #18",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "c7",
+            "cK",
+            "dJ",
+            "dA",
+            "h2",
+            "h4",
+            "h5",
+            "h7",
+            "hK",
+            "s2",
+            "s7",
+            "s8"
+          ],
+          "W": [
+            "c3",
+            "c6",
+            "cT",
+            "d7",
+            "d9",
+            "dQ",
+            "dK",
+            "hQ",
+            "hA",
+            "s4",
+            "s5",
+            "s6",
+            "sJ"
+          ],
+          "N": [
+            "c5",
+            "c8",
+            "cJ",
+            "d2",
+            "d6",
+            "h3",
+            "h6",
+            "h8",
+            "hJ",
+            "s3",
+            "s9",
+            "sQ",
+            "sK"
+          ],
+          "E": [
+            "c2",
+            "c9",
+            "cQ",
+            "cA",
+            "d3",
+            "d4",
+            "d5",
+            "d8",
+            "dT",
+            "h9",
+            "hT",
+            "sT",
+            "sA"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1D",
+          "1H",
+          "d",
+          "3D",
+          "p",
+          "3H",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "h3",
+          "h9",
+          "hK",
+          "hA"
+        ],
+        [
+          "dQ",
+          "d2",
+          "d3",
+          "dA"
+        ],
+        [
+          "h4",
+          "hQ",
+          "hJ",
+          "hT"
+        ],
+        [
+          "dK",
+          "d6",
+          "d4",
+          "dJ"
+        ],
+        [
+          "cT",
+          "c5",
+          "cQ",
+          "cK"
+        ],
+        [
+          "h2",
+          "s4",
+          "h8",
+          "sT"
+        ],
+        [
+          "h6",
+          "c2",
+          "h7",
+          "c3"
+        ],
+        [
+          "h5"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 5,
+          "EW": 8
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o19": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #19",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c5",
+            "c7",
+            "cT",
+            "cQ",
+            "cA",
+            "d2",
+            "d5",
+            "d6",
+            "dT",
+            "dA",
+            "h2",
+            "hK"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "d7",
+            "d8",
+            "h3",
+            "h4",
+            "h9",
+            "hQ",
+            "s4",
+            "s7",
+            "s8",
+            "sJ",
+            "sA"
+          ],
+          "N": [
+            "cJ",
+            "cK",
+            "d4",
+            "d9",
+            "dK",
+            "h5",
+            "h6",
+            "h8",
+            "hA",
+            "s2",
+            "s3",
+            "s6",
+            "s9"
+          ],
+          "E": [
+            "c3",
+            "c4",
+            "c8",
+            "d3",
+            "dJ",
+            "dQ",
+            "h7",
+            "hT",
+            "hJ",
+            "s5",
+            "sT",
+            "sQ",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1D",
+          "p",
+          "1H",
+          "p",
+          "2C",
+          "p",
+          "3D",
+          "p",
+          "4S",
+          "p",
+          "5D",
+          "p",
+          "6D",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "6D",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "d7",
+          "d4",
+          "dQ",
+          "dA"
+        ],
+        [
+          "d2",
+          "d8",
+          "dK",
+          "d3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 12,
+          "EW": 1
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c19": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #19",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c5",
+            "c7",
+            "cT",
+            "cQ",
+            "cA",
+            "d2",
+            "d5",
+            "d6",
+            "dT",
+            "dA",
+            "h2",
+            "hK"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "d7",
+            "d8",
+            "h3",
+            "h4",
+            "h9",
+            "hQ",
+            "s4",
+            "s7",
+            "s8",
+            "sJ",
+            "sA"
+          ],
+          "N": [
+            "cJ",
+            "cK",
+            "d4",
+            "d9",
+            "dK",
+            "h5",
+            "h6",
+            "h8",
+            "hA",
+            "s2",
+            "s3",
+            "s6",
+            "s9"
+          ],
+          "E": [
+            "c3",
+            "c4",
+            "c8",
+            "d3",
+            "dJ",
+            "dQ",
+            "h7",
+            "hT",
+            "hJ",
+            "s5",
+            "sT",
+            "sQ",
+            "sK"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1C",
+          "1S",
+          "d",
+          "2H",
+          "3D",
+          "p",
+          "4C",
+          "p",
+          "4D",
+          "p",
+          "4H",
+          "p",
+          "4S",
+          "p",
+          "6C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "6C",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "sA",
+          "s2",
+          "s5",
+          "c2"
+        ],
+        [
+          "c5",
+          "c6",
+          "cK",
+          "c3"
+        ],
+        [
+          "cJ",
+          "c4",
+          "cA",
+          "c9"
+        ],
+        [
+          "cQ",
+          "s8",
+          "s3",
+          "c8"
+        ],
+        [
+          "d2",
+          "d7",
+          "d9",
+          "dJ"
+        ],
+        [
+          "sQ",
+          "c7",
+          "s4",
+          "s6"
+        ],
+        [
+          "d5",
+          "d8",
+          "dK",
+          "d3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 12,
+          "EW": 1
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o20": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #20",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c8",
+            "cA",
+            "d4",
+            "d9",
+            "dJ",
+            "h3",
+            "h5",
+            "hJ",
+            "hQ",
+            "hA",
+            "s6",
+            "s9",
+            "sK"
+          ],
+          "W": [
+            "c6",
+            "c7",
+            "c9",
+            "cT",
+            "cQ",
+            "d2",
+            "h2",
+            "h4",
+            "hT",
+            "s2",
+            "s7",
+            "sT",
+            "sA"
+          ],
+          "N": [
+            "c2",
+            "c3",
+            "c4",
+            "c5",
+            "cJ",
+            "cK",
+            "d7",
+            "h6",
+            "h8",
+            "hK",
+            "s4",
+            "s5",
+            "s8"
+          ],
+          "E": [
+            "d3",
+            "d5",
+            "d6",
+            "d8",
+            "dT",
+            "dQ",
+            "dK",
+            "dA",
+            "h7",
+            "h9",
+            "s3",
+            "sJ",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "p",
+          "p",
+          "5D",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5D",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "hA",
+          "h2",
+          "h6",
+          "h9"
+        ],
+        [
+          "sK",
+          "sA",
+          "s8",
+          "sJ"
+        ],
+        [
+          "d2",
+          "d7",
+          "dA",
+          "d4"
+        ],
+        [
+          "dK",
+          "d9",
+          "c6",
+          "s5"
+        ],
+        [
+          "dQ",
+          "dJ",
+          "h4",
+          "s4"
+        ],
+        [
+          "dT",
+          "s6",
+          "c7",
+          "c2"
+        ],
+        [
+          "d8",
+          "s9",
+          "hT",
+          "c3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 1,
+          "EW": 12
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c20": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #20",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c8",
+            "cA",
+            "d4",
+            "d9",
+            "dJ",
+            "h3",
+            "h5",
+            "hJ",
+            "hQ",
+            "hA",
+            "s6",
+            "s9",
+            "sK"
+          ],
+          "W": [
+            "c6",
+            "c7",
+            "c9",
+            "cT",
+            "cQ",
+            "d2",
+            "h2",
+            "h4",
+            "hT",
+            "s2",
+            "s7",
+            "sT",
+            "sA"
+          ],
+          "N": [
+            "c2",
+            "c3",
+            "c4",
+            "c5",
+            "cJ",
+            "cK",
+            "d7",
+            "h6",
+            "h8",
+            "hK",
+            "s4",
+            "s5",
+            "s8"
+          ],
+          "E": [
+            "d3",
+            "d5",
+            "d6",
+            "d8",
+            "dT",
+            "dQ",
+            "dK",
+            "dA",
+            "h7",
+            "h9",
+            "s3",
+            "sJ",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "p",
+          "p",
+          "5D",
+          "d",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5D",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "hA",
+          "h2",
+          "h6",
+          "h7"
+        ],
+        [
+          "h3",
+          "h4",
+          "hK",
+          "h9"
+        ],
+        [
+          "h8",
+          "d6",
+          "h5",
+          "hT"
+        ],
+        [
+          "dA",
+          "d4",
+          "d2",
+          "d7"
+        ],
+        [
+          "dK",
+          "d9",
+          "c6",
+          "c2"
+        ],
+        [
+          "dQ",
+          "dJ",
+          "c7",
+          "s8"
+        ],
+        [
+          "sQ",
+          "sK"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 2,
+          "EW": 11
+        },
+        "winner": "",
+        "double": "x"
+      }
+    }
+  },
+  "id-74807-o21": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #21",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "c6",
+            "c8",
+            "c9",
+            "d2",
+            "d3",
+            "d6",
+            "d9",
+            "h3",
+            "h6",
+            "hQ",
+            "s2",
+            "sQ"
+          ],
+          "W": [
+            "cJ",
+            "cQ",
+            "cA",
+            "d7",
+            "dJ",
+            "h5",
+            "h7",
+            "h8",
+            "hK",
+            "s8",
+            "sT",
+            "sJ",
+            "sA"
+          ],
+          "N": [
+            "c4",
+            "c5",
+            "c7",
+            "cK",
+            "d5",
+            "dT",
+            "hT",
+            "hJ",
+            "hA",
+            "s3",
+            "s4",
+            "s5",
+            "sK"
+          ],
+          "E": [
+            "c2",
+            "cT",
+            "d4",
+            "d8",
+            "dQ",
+            "dK",
+            "dA",
+            "h2",
+            "h4",
+            "h9",
+            "s6",
+            "s7",
+            "s9"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "1C",
+          "2D",
+          "p",
+          "2N",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "s3",
+          "s6",
+          "sQ",
+          "sA"
+        ],
+        [
+          "sT",
+          "s4",
+          "s7",
+          "s2"
+        ],
+        [
+          "sJ",
+          "sK",
+          "s9",
+          "c8"
+        ],
+        [
+          "hJ",
+          "h2",
+          "h6",
+          "hK"
+        ],
+        [
+          "s8",
+          "s5",
+          "h4",
+          "c9"
+        ],
+        [
+          "dJ",
+          "d5",
+          "d4",
+          "d2"
+        ],
+        [
+          "d7",
+          "dT",
+          "dA",
+          "d3"
+        ],
+        [
+          "dK",
+          "d6",
+          "h5",
+          "c4"
+        ],
+        [
+          "dQ",
+          "d9",
+          "h7",
+          "c5"
+        ],
+        [
+          "d8",
+          "c3",
+          "h8",
+          "hA"
+        ],
+        [
+          "c2",
+          "c6",
+          "cA",
+          "c7"
+        ],
+        [
+          "cJ",
+          "cK",
+          "cT",
+          "h3"
+        ],
+        [
+          "hT",
+          "h9",
+          "hQ",
+          "cQ"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c21": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #21",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "c6",
+            "c8",
+            "c9",
+            "d2",
+            "d3",
+            "d6",
+            "d9",
+            "h3",
+            "h6",
+            "hQ",
+            "s2",
+            "sQ"
+          ],
+          "W": [
+            "cJ",
+            "cQ",
+            "cA",
+            "d7",
+            "dJ",
+            "h5",
+            "h7",
+            "h8",
+            "hK",
+            "s8",
+            "sT",
+            "sJ",
+            "sA"
+          ],
+          "N": [
+            "c4",
+            "c5",
+            "c7",
+            "cK",
+            "d5",
+            "dT",
+            "hT",
+            "hJ",
+            "hA",
+            "s3",
+            "s4",
+            "s5",
+            "sK"
+          ],
+          "E": [
+            "c2",
+            "cT",
+            "d4",
+            "d8",
+            "dQ",
+            "dK",
+            "dA",
+            "h2",
+            "h4",
+            "h9",
+            "s6",
+            "s7",
+            "s9"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "1C",
+          "1D",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "s3",
+          "s9",
+          "sQ",
+          "sA"
+        ],
+        [
+          "sJ",
+          "s5",
+          "s6",
+          "s2"
+        ],
+        [
+          "sT",
+          "sK",
+          "s7",
+          "c8"
+        ],
+        [
+          "dT",
+          "d4",
+          "d2",
+          "dJ"
+        ],
+        [
+          "s8",
+          "s4",
+          "h2",
+          "d3"
+        ],
+        [
+          "d7",
+          "d5",
+          "dA",
+          "d6"
+        ],
+        [
+          "dK",
+          "d9",
+          "h5",
+          "hT"
+        ],
+        [
+          "dQ",
+          "c3",
+          "h7",
+          "c4"
+        ],
+        [
+          "d8",
+          "c6",
+          "cJ",
+          "c5"
+        ],
+        [
+          "c2",
+          "c9",
+          "cA",
+          "c7"
+        ],
+        [
+          "cQ",
+          "cK",
+          "cT",
+          "h3"
+        ],
+        [
+          "hA",
+          "h4",
+          "h6",
+          "h8"
+        ],
+        [
+          "hJ",
+          "h9",
+          "hQ",
+          "hK"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o22": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #22",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c3",
+            "c6",
+            "c8",
+            "cJ",
+            "cA",
+            "d6",
+            "d9",
+            "hT",
+            "s2",
+            "s6",
+            "sT",
+            "sQ"
+          ],
+          "W": [
+            "c5",
+            "c9",
+            "cK",
+            "d2",
+            "d4",
+            "dJ",
+            "dQ",
+            "h4",
+            "hJ",
+            "hQ",
+            "s7",
+            "s8",
+            "sA"
+          ],
+          "N": [
+            "c4",
+            "cT",
+            "cQ",
+            "d3",
+            "d7",
+            "h2",
+            "h3",
+            "h5",
+            "h8",
+            "hK",
+            "s3",
+            "s9",
+            "sK"
+          ],
+          "E": [
+            "c7",
+            "d5",
+            "d8",
+            "dT",
+            "dK",
+            "dA",
+            "h6",
+            "h7",
+            "h9",
+            "hA",
+            "s4",
+            "s5",
+            "sJ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1D",
+          "p",
+          "1N",
+          "p",
+          "2C",
+          "3C",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "c4",
+          "c7",
+          "cA",
+          "c5"
+        ],
+        [
+          "c2",
+          "cK",
+          "cQ",
+          "s4"
+        ],
+        [
+          "hQ",
+          "hK",
+          "hA",
+          "hT"
+        ],
+        [
+          "h6",
+          "s2",
+          "hJ",
+          "h2"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 2,
+          "EW": 11
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c22": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #22",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c3",
+            "c6",
+            "c8",
+            "cJ",
+            "cA",
+            "d6",
+            "d9",
+            "hT",
+            "s2",
+            "s6",
+            "sT",
+            "sQ"
+          ],
+          "W": [
+            "c5",
+            "c9",
+            "cK",
+            "d2",
+            "d4",
+            "dJ",
+            "dQ",
+            "h4",
+            "hJ",
+            "hQ",
+            "s7",
+            "s8",
+            "sA"
+          ],
+          "N": [
+            "c4",
+            "cT",
+            "cQ",
+            "d3",
+            "d7",
+            "h2",
+            "h3",
+            "h5",
+            "h8",
+            "hK",
+            "s3",
+            "s9",
+            "sK"
+          ],
+          "E": [
+            "c7",
+            "d5",
+            "d8",
+            "dT",
+            "dK",
+            "dA",
+            "h6",
+            "h7",
+            "h9",
+            "hA",
+            "s4",
+            "s5",
+            "sJ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1H",
+          "p",
+          "2C",
+          "p",
+          "2S",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "h3",
+          "h6",
+          "hT",
+          "hQ"
+        ],
+        [
+          "hJ",
+          "h2",
+          "h7",
+          "c2"
+        ],
+        [
+          "h4",
+          "h5",
+          "h9",
+          "c3"
+        ],
+        [
+          "d5",
+          "d6",
+          "dQ",
+          "d3"
+        ],
+        [
+          "dJ",
+          "d7",
+          "dA",
+          "d9"
+        ],
+        [
+          "dK",
+          "s2",
+          "d2",
+          "c4"
+        ],
+        [
+          "dT",
+          "c6",
+          "d4",
+          "s9"
+        ],
+        [
+          "d8",
+          "c8",
+          "s7",
+          "s3"
+        ],
+        [
+          "hA",
+          "cJ",
+          "s8",
+          "h8"
+        ],
+        [
+          "c7",
+          "cA",
+          "c5",
+          "cQ"
+        ],
+        [
+          "s6",
+          "sA",
+          "sK",
+          "s4"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 1,
+          "EW": 12
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o23": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #23",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "d7",
+            "dJ",
+            "dK",
+            "dA",
+            "h8",
+            "hT",
+            "hQ",
+            "hK",
+            "hA",
+            "s6",
+            "s7",
+            "sT",
+            "sK"
+          ],
+          "W": [
+            "c2",
+            "c4",
+            "c9",
+            "cQ",
+            "cK",
+            "d6",
+            "d8",
+            "dT",
+            "h4",
+            "h5",
+            "h7",
+            "h9",
+            "s4"
+          ],
+          "N": [
+            "c3",
+            "c6",
+            "c7",
+            "cJ",
+            "cA",
+            "d2",
+            "d9",
+            "h2",
+            "h3",
+            "s3",
+            "s8",
+            "s9",
+            "sA"
+          ],
+          "E": [
+            "c5",
+            "c8",
+            "cT",
+            "d3",
+            "d4",
+            "d5",
+            "dQ",
+            "h6",
+            "hJ",
+            "s2",
+            "s5",
+            "sJ",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1H",
+          "p",
+          "1S",
+          "p",
+          "5C",
+          "p",
+          "5H",
+          "p",
+          "5N",
+          "p",
+          "6C",
+          "p",
+          "6S",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "6S",
+        "declarer": "N"
+      },
+      "card_play": [
+        [
+          "d3",
+          "dA",
+          "d6",
+          "d9"
+        ],
+        [
+          "s6",
+          "s4",
+          "sA",
+          "s5"
+        ],
+        [
+          "cA",
+          "c8",
+          "d7",
+          "c2"
+        ],
+        [
+          "s3",
+          "s2",
+          "sK",
+          "c4"
+        ],
+        [
+          "hA",
+          "h4",
+          "h3",
+          "h6"
+        ],
+        [
+          "hK",
+          "h5",
+          "h2",
+          "hJ"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 11,
+          "EW": 2
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c23": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #23",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "d7",
+            "dJ",
+            "dK",
+            "dA",
+            "h8",
+            "hT",
+            "hQ",
+            "hK",
+            "hA",
+            "s6",
+            "s7",
+            "sT",
+            "sK"
+          ],
+          "W": [
+            "c2",
+            "c4",
+            "c9",
+            "cQ",
+            "cK",
+            "d6",
+            "d8",
+            "dT",
+            "h4",
+            "h5",
+            "h7",
+            "h9",
+            "s4"
+          ],
+          "N": [
+            "c3",
+            "c6",
+            "c7",
+            "cJ",
+            "cA",
+            "d2",
+            "d9",
+            "h2",
+            "h3",
+            "s3",
+            "s8",
+            "s9",
+            "sA"
+          ],
+          "E": [
+            "c5",
+            "c8",
+            "cT",
+            "d3",
+            "d4",
+            "d5",
+            "dQ",
+            "h6",
+            "hJ",
+            "s2",
+            "s5",
+            "sJ",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1H",
+          "p",
+          "1S",
+          "p",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "2S",
+          "p",
+          "2N",
+          "p",
+          "3C",
+          "d",
+          "3D",
+          "p",
+          "3H",
+          "p",
+          "3S",
+          "p",
+          "5C",
+          "p",
+          "5H",
+          "p",
+          "5N",
+          "p",
+          "6C",
+          "p",
+          "6S",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "6S",
+        "declarer": "N"
+      },
+      "card_play": [
+        [
+          "c8",
+          "s6",
+          "c2",
+          "c3"
+        ],
+        [
+          "dA",
+          "d6",
+          "d2",
+          "d4"
+        ],
+        [
+          "dK",
+          "d8",
+          "d9",
+          "d3"
+        ],
+        [
+          "hA",
+          "h4",
+          "h3",
+          "h6"
+        ],
+        [
+          "hK",
+          "h5",
+          "h2",
+          "hJ"
+        ],
+        [
+          "s7",
+          "s4",
+          "sA",
+          "s2"
+        ],
+        [
+          "s3",
+          "sJ",
+          "sK",
+          "c4"
+        ],
+        [
+          "d7",
+          "dT",
+          "s8",
+          "d5"
+        ],
+        [
+          "cA",
+          "c5",
+          "h8",
+          "c9"
+        ],
+        [
+          "c6",
+          "cT",
+          "sT",
+          "cQ"
+        ],
+        [
+          "dJ",
+          "h7",
+          "s9",
+          "dQ"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 11,
+          "EW": 2
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o24": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #24",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "cT",
+            "d2",
+            "d5",
+            "d8",
+            "dA",
+            "h5",
+            "h8",
+            "h9",
+            "hK",
+            "s3",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "W": [
+            "c5",
+            "cK",
+            "cA",
+            "dJ",
+            "dQ",
+            "dK",
+            "h4",
+            "hT",
+            "hJ",
+            "hQ",
+            "hA",
+            "s4",
+            "s6"
+          ],
+          "N": [
+            "c2",
+            "c3",
+            "c4",
+            "c6",
+            "c9",
+            "cJ",
+            "cQ",
+            "d3",
+            "d4",
+            "d6",
+            "d7",
+            "s5",
+            "sQ"
+          ],
+          "E": [
+            "c7",
+            "c8",
+            "d9",
+            "dT",
+            "h2",
+            "h3",
+            "h6",
+            "h7",
+            "s2",
+            "sT",
+            "sJ",
+            "sK",
+            "sA"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "2N",
+          "3C",
+          "d",
+          "p",
+          "4H",
+          "p",
+          "5H",
+          "p",
+          "6H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "6H",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "cQ",
+          "c7",
+          "cT",
+          "cA"
+        ],
+        [
+          "s4",
+          "s5",
+          "sA",
+          "s3"
+        ],
+        [
+          "h2",
+          "h5",
+          "hQ",
+          "c2"
+        ],
+        [
+          "dQ",
+          "d3",
+          "d9",
+          "dA"
+        ],
+        [
+          "d2",
+          "dK",
+          "d4",
+          "dT"
+        ],
+        [
+          "dJ",
+          "d6",
+          "h3",
+          "d5"
+        ],
+        [
+          "h6",
+          "h8",
+          "hJ",
+          "c3"
+        ],
+        [
+          "s6",
+          "sQ",
+          "sK",
+          "s7"
+        ],
+        [
+          "sJ",
+          "s8",
+          "c5",
+          "c4"
+        ],
+        [
+          "h7",
+          "h9",
+          "hT"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 1,
+          "EW": 12
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c24": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #24",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "cT",
+            "d2",
+            "d5",
+            "d8",
+            "dA",
+            "h5",
+            "h8",
+            "h9",
+            "hK",
+            "s3",
+            "s7",
+            "s8",
+            "s9"
+          ],
+          "W": [
+            "c5",
+            "cK",
+            "cA",
+            "dJ",
+            "dQ",
+            "dK",
+            "h4",
+            "hT",
+            "hJ",
+            "hQ",
+            "hA",
+            "s4",
+            "s6"
+          ],
+          "N": [
+            "c2",
+            "c3",
+            "c4",
+            "c6",
+            "c9",
+            "cJ",
+            "cQ",
+            "d3",
+            "d4",
+            "d6",
+            "d7",
+            "s5",
+            "sQ"
+          ],
+          "E": [
+            "c7",
+            "c8",
+            "d9",
+            "dT",
+            "h2",
+            "h3",
+            "h6",
+            "h7",
+            "s2",
+            "sT",
+            "sJ",
+            "sK",
+            "sA"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "1C",
+          "3C",
+          "3H",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "cQ",
+          "c7",
+          "cT",
+          "c5"
+        ],
+        [
+          "s5",
+          "sT",
+          "s7",
+          "s4"
+        ],
+        [
+          "h2",
+          "h5",
+          "hQ",
+          "c6"
+        ],
+        [
+          "hA",
+          "c4",
+          "h3",
+          "h8"
+        ],
+        [
+          "hJ",
+          "c2",
+          "h6",
+          "hK"
+        ],
+        [
+          "d2",
+          "dK",
+          "d3",
+          "d9"
+        ],
+        [
+          "hT",
+          "c3",
+          "h7",
+          "h9"
+        ],
+        [
+          "h4",
+          "sQ"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 2,
+          "EW": 11
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o25": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #25",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c6",
+            "c7",
+            "c9",
+            "cT",
+            "d5",
+            "dQ",
+            "dK",
+            "h2",
+            "hJ",
+            "hQ",
+            "hK",
+            "s5",
+            "s7"
+          ],
+          "W": [
+            "c5",
+            "cA",
+            "d2",
+            "d3",
+            "d7",
+            "d8",
+            "dA",
+            "h4",
+            "h8",
+            "s4",
+            "s8",
+            "sJ",
+            "sA"
+          ],
+          "N": [
+            "c2",
+            "c4",
+            "cQ",
+            "d9",
+            "dJ",
+            "h5",
+            "hT",
+            "hA",
+            "s2",
+            "s9",
+            "sT",
+            "sQ",
+            "sK"
+          ],
+          "E": [
+            "c3",
+            "c8",
+            "cJ",
+            "cK",
+            "d4",
+            "d6",
+            "dT",
+            "h3",
+            "h6",
+            "h7",
+            "h9",
+            "s3",
+            "s6"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "1S",
+          "p",
+          "2C",
+          "p",
+          "2N",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "N"
+      },
+      "card_play": [
+        [
+          "h3",
+          "hJ",
+          "h4",
+          "h5"
+        ],
+        [
+          "s5",
+          "s4",
+          "sT",
+          "s3"
+        ],
+        [
+          "d9",
+          "d4",
+          "dQ",
+          "dA"
+        ],
+        [
+          "d3",
+          "dJ",
+          "d6",
+          "d5"
+        ],
+        [
+          "sK",
+          "s6",
+          "s7",
+          "sA"
+        ],
+        [
+          "d2",
+          "s2",
+          "dT",
+          "dK"
+        ],
+        [
+          "h2",
+          "h8",
+          "hA",
+          "h6"
+        ],
+        [
+          "sQ",
+          "h7",
+          "c6",
+          "s8"
+        ],
+        [
+          "hT",
+          "h9",
+          "hQ",
+          "d8"
+        ],
+        [
+          "hK",
+          "c5",
+          "c2",
+          "c3"
+        ],
+        [
+          "c9",
+          "cA",
+          "c4",
+          "c8"
+        ],
+        [
+          "sJ",
+          "s9",
+          "cJ",
+          "c7"
+        ],
+        [
+          "d7",
+          "cQ",
+          "cK",
+          "cT"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 8,
+          "EW": 5
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c25": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #25",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c6",
+            "c7",
+            "c9",
+            "cT",
+            "d5",
+            "dQ",
+            "dK",
+            "h2",
+            "hJ",
+            "hQ",
+            "hK",
+            "s5",
+            "s7"
+          ],
+          "W": [
+            "c5",
+            "cA",
+            "d2",
+            "d3",
+            "d7",
+            "d8",
+            "dA",
+            "h4",
+            "h8",
+            "s4",
+            "s8",
+            "sJ",
+            "sA"
+          ],
+          "N": [
+            "c2",
+            "c4",
+            "cQ",
+            "d9",
+            "dJ",
+            "h5",
+            "hT",
+            "hA",
+            "s2",
+            "s9",
+            "sT",
+            "sQ",
+            "sK"
+          ],
+          "E": [
+            "c3",
+            "c8",
+            "cJ",
+            "cK",
+            "d4",
+            "d6",
+            "dT",
+            "h3",
+            "h6",
+            "h7",
+            "h9",
+            "s3",
+            "s6"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "1S",
+          "p",
+          "1N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "1N",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "d3",
+          "d9",
+          "dT",
+          "dQ"
+        ],
+        [
+          "s7",
+          "s8",
+          "sK",
+          "s3"
+        ],
+        [
+          "h5",
+          "h3",
+          "hK",
+          "h8"
+        ],
+        [
+          "s5",
+          "s4",
+          "sQ",
+          "s6"
+        ],
+        [
+          "hA",
+          "h6",
+          "h2",
+          "h4"
+        ],
+        [
+          "hT",
+          "h7",
+          "hQ",
+          "d2"
+        ],
+        [
+          "hJ",
+          "d7",
+          "s2",
+          "h9"
+        ],
+        [
+          "d5",
+          "dA",
+          "dJ",
+          "d4"
+        ],
+        [
+          "sA",
+          "s9",
+          "d6",
+          "c6"
+        ],
+        [
+          "sJ",
+          "sT",
+          "c8",
+          "c7"
+        ],
+        [
+          "cA",
+          "c2",
+          "c3",
+          "c9"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 7,
+          "EW": 6
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o26": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #26",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c3",
+            "d5",
+            "d9",
+            "dQ",
+            "dK",
+            "h2",
+            "h7",
+            "hJ",
+            "s6",
+            "s8",
+            "s9",
+            "sK"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "cQ",
+            "d2",
+            "d8",
+            "dT",
+            "dA",
+            "h4",
+            "h5",
+            "h8",
+            "hQ",
+            "s2",
+            "s3"
+          ],
+          "N": [
+            "c4",
+            "c5",
+            "d4",
+            "d6",
+            "d7",
+            "dJ",
+            "h6",
+            "h9",
+            "hK",
+            "hA",
+            "s5",
+            "s7",
+            "sA"
+          ],
+          "E": [
+            "c7",
+            "c8",
+            "cT",
+            "cJ",
+            "cK",
+            "cA",
+            "d3",
+            "h3",
+            "hT",
+            "s4",
+            "sT",
+            "sJ",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1C",
+          "p",
+          "1D",
+          "p",
+          "1S",
+          "p",
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "2C",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "h7",
+          "h4",
+          "hK",
+          "h3"
+        ],
+        [
+          "c4",
+          "c7",
+          "c2",
+          "c9"
+        ],
+        [
+          "s2",
+          "s7",
+          "sQ",
+          "sK"
+        ],
+        [
+          "c3",
+          "cQ",
+          "c5",
+          "c8"
+        ],
+        [
+          "s3",
+          "sA",
+          "s4",
+          "s6"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 4,
+          "EW": 9
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c26": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #26",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c3",
+            "d5",
+            "d9",
+            "dQ",
+            "dK",
+            "h2",
+            "h7",
+            "hJ",
+            "s6",
+            "s8",
+            "s9",
+            "sK"
+          ],
+          "W": [
+            "c6",
+            "c9",
+            "cQ",
+            "d2",
+            "d8",
+            "dT",
+            "dA",
+            "h4",
+            "h5",
+            "h8",
+            "hQ",
+            "s2",
+            "s3"
+          ],
+          "N": [
+            "c4",
+            "c5",
+            "d4",
+            "d6",
+            "d7",
+            "dJ",
+            "h6",
+            "h9",
+            "hK",
+            "hA",
+            "s5",
+            "s7",
+            "sA"
+          ],
+          "E": [
+            "c7",
+            "c8",
+            "cT",
+            "cJ",
+            "cK",
+            "cA",
+            "d3",
+            "h3",
+            "hT",
+            "s4",
+            "sT",
+            "sJ",
+            "sQ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "1S",
+          "p",
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "p",
+          "d",
+          "3C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3C",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "c2",
+          "cQ",
+          "c4",
+          "cT"
+        ],
+        [
+          "s2",
+          "s7",
+          "sJ",
+          "sK"
+        ],
+        [
+          "dK",
+          "dA",
+          "d4",
+          "d3"
+        ],
+        [
+          "s3",
+          "sA",
+          "s4",
+          "s6"
+        ],
+        [
+          "d6",
+          "cA",
+          "d5",
+          "d2"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 4,
+          "EW": 9
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o27": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #27",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "c7",
+            "d5",
+            "d7",
+            "dT",
+            "dQ",
+            "h6",
+            "h8",
+            "hT",
+            "hK",
+            "s4",
+            "s9",
+            "sJ"
+          ],
+          "W": [
+            "c5",
+            "d3",
+            "dJ",
+            "dK",
+            "dA",
+            "h3",
+            "h5",
+            "h9",
+            "hQ",
+            "hA",
+            "s3",
+            "s8",
+            "sK"
+          ],
+          "N": [
+            "c6",
+            "c9",
+            "cT",
+            "cA",
+            "d4",
+            "d6",
+            "h2",
+            "h4",
+            "h7",
+            "hJ",
+            "s2",
+            "sQ",
+            "sA"
+          ],
+          "E": [
+            "c2",
+            "c3",
+            "c8",
+            "cJ",
+            "cQ",
+            "cK",
+            "d2",
+            "d8",
+            "d9",
+            "s5",
+            "s6",
+            "s7",
+            "sT"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "p",
+          "1H",
+          "p",
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "3C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3C",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "d4",
+          "d2",
+          "dQ",
+          "dA"
+        ],
+        [
+          "c5",
+          "c6",
+          "cK",
+          "c4"
+        ],
+        [
+          "cQ",
+          "c7",
+          "h3",
+          "cA"
+        ],
+        [
+          "d6",
+          "d8",
+          "dT",
+          "dK"
+        ],
+        [
+          "h5",
+          "h2",
+          "c2",
+          "h6"
+        ],
+        [
+          "cJ",
+          "d5",
+          "s3",
+          "c9"
+        ],
+        [
+          "d9",
+          "d7",
+          "d3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c27": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #27",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "c7",
+            "d5",
+            "d7",
+            "dT",
+            "dQ",
+            "h6",
+            "h8",
+            "hT",
+            "hK",
+            "s4",
+            "s9",
+            "sJ"
+          ],
+          "W": [
+            "c5",
+            "d3",
+            "dJ",
+            "dK",
+            "dA",
+            "h3",
+            "h5",
+            "h9",
+            "hQ",
+            "hA",
+            "s3",
+            "s8",
+            "sK"
+          ],
+          "N": [
+            "c6",
+            "c9",
+            "cT",
+            "cA",
+            "d4",
+            "d6",
+            "h2",
+            "h4",
+            "h7",
+            "hJ",
+            "s2",
+            "sQ",
+            "sA"
+          ],
+          "E": [
+            "c2",
+            "c3",
+            "c8",
+            "cJ",
+            "cQ",
+            "cK",
+            "d2",
+            "d8",
+            "d9",
+            "s5",
+            "s6",
+            "s7",
+            "sT"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "p",
+          "1C",
+          "p",
+          "1D",
+          "p",
+          "1H",
+          "p",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "3C",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3C",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "h4",
+          "s5",
+          "hT",
+          "hQ"
+        ],
+        [
+          "c5",
+          "c6",
+          "cJ",
+          "c4"
+        ],
+        [
+          "cK",
+          "c7",
+          "h3",
+          "cT"
+        ],
+        [
+          "cQ",
+          "s9",
+          "s3",
+          "cA"
+        ],
+        [
+          "c9",
+          "c2",
+          "h6",
+          "h5"
+        ],
+        [
+          "h7",
+          "s6",
+          "hK",
+          "hA"
+        ],
+        [
+          "dA",
+          "d4",
+          "d2",
+          "d5"
+        ],
+        [
+          "h9",
+          "hJ",
+          "c3",
+          "h8"
+        ],
+        [
+          "d8",
+          "d7",
+          "dJ",
+          "d6"
+        ],
+        [
+          "dK",
+          "s2",
+          "d9",
+          "dT"
+        ],
+        [
+          "s8",
+          "sQ",
+          "s7",
+          "s4"
+        ],
+        [
+          "sA",
+          "sT",
+          "sJ",
+          "sK"
+        ],
+        [
+          "h2",
+          "c8",
+          "dQ",
+          "d3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 4,
+          "EW": 9
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o28": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #28",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c4",
+            "c5",
+            "c6",
+            "c7",
+            "cJ",
+            "d3",
+            "h9",
+            "s3",
+            "s5",
+            "s6",
+            "s7",
+            "sK"
+          ],
+          "W": [
+            "c8",
+            "cT",
+            "cQ",
+            "cK",
+            "d4",
+            "d5",
+            "d7",
+            "d9",
+            "dK",
+            "h7",
+            "s4",
+            "sT",
+            "sQ"
+          ],
+          "N": [
+            "c3",
+            "cA",
+            "d2",
+            "d8",
+            "h2",
+            "h4",
+            "h5",
+            "h6",
+            "hT",
+            "hJ",
+            "s9",
+            "sJ",
+            "sA"
+          ],
+          "E": [
+            "c9",
+            "d6",
+            "dT",
+            "dJ",
+            "dQ",
+            "dA",
+            "h3",
+            "h8",
+            "hQ",
+            "hK",
+            "hA",
+            "s2",
+            "s8"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "p",
+          "p",
+          "1H",
+          "p",
+          "1N",
+          "p",
+          "3D",
+          "p",
+          "5D",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5D",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "c5",
+          "cK",
+          "cA",
+          "c9"
+        ],
+        [
+          "sA",
+          "s2",
+          "s3",
+          "s4"
+        ],
+        [
+          "s9",
+          "s8",
+          "sK",
+          "sT"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c28": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #28",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c4",
+            "c5",
+            "c6",
+            "c7",
+            "cJ",
+            "d3",
+            "h9",
+            "s3",
+            "s5",
+            "s6",
+            "s7",
+            "sK"
+          ],
+          "W": [
+            "c8",
+            "cT",
+            "cQ",
+            "cK",
+            "d4",
+            "d5",
+            "d7",
+            "d9",
+            "dK",
+            "h7",
+            "s4",
+            "sT",
+            "sQ"
+          ],
+          "N": [
+            "c3",
+            "cA",
+            "d2",
+            "d8",
+            "h2",
+            "h4",
+            "h5",
+            "h6",
+            "hT",
+            "hJ",
+            "s9",
+            "sJ",
+            "sA"
+          ],
+          "E": [
+            "c9",
+            "d6",
+            "dT",
+            "dJ",
+            "dQ",
+            "dA",
+            "h3",
+            "h8",
+            "hQ",
+            "hK",
+            "hA",
+            "s2",
+            "s8"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "1D",
+          "1H",
+          "d",
+          "1S",
+          "d",
+          "r",
+          "2H",
+          "p",
+          "3D",
+          "p",
+          "5D",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "5D",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "sA",
+          "s2",
+          "s5",
+          "s4"
+        ],
+        [
+          "cA",
+          "c9",
+          "c5",
+          "c8"
+        ],
+        [
+          "s9",
+          "s8",
+          "sK",
+          "sT"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o29": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #29",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c4",
+            "c5",
+            "cJ",
+            "d3",
+            "d4",
+            "d9",
+            "h2",
+            "hA",
+            "sT",
+            "sJ",
+            "sQ",
+            "sA"
+          ],
+          "W": [
+            "c3",
+            "cQ",
+            "cK",
+            "cA",
+            "d2",
+            "d6",
+            "dQ",
+            "dK",
+            "dA",
+            "h4",
+            "hJ",
+            "s3",
+            "s8"
+          ],
+          "N": [
+            "c8",
+            "d7",
+            "d8",
+            "dT",
+            "dJ",
+            "h5",
+            "h8",
+            "h9",
+            "hT",
+            "s2",
+            "s5",
+            "s9",
+            "sK"
+          ],
+          "E": [
+            "c6",
+            "c7",
+            "c9",
+            "cT",
+            "d5",
+            "h3",
+            "h6",
+            "h7",
+            "hQ",
+            "hK",
+            "s4",
+            "s6",
+            "s7"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "p",
+          "p",
+          "1C",
+          "d",
+          "1D",
+          "1H",
+          "1S",
+          "1N",
+          "p",
+          "3H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3H",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "sQ",
+          "s3",
+          "s2",
+          "s6"
+        ],
+        [
+          "h2",
+          "hJ",
+          "h5",
+          "h3"
+        ],
+        [
+          "dA",
+          "d7",
+          "d5",
+          "d3"
+        ],
+        [
+          "dK",
+          "d8",
+          "s4",
+          "d4"
+        ],
+        [
+          "dQ",
+          "dJ",
+          "s7",
+          "d9"
+        ],
+        [
+          "h4",
+          "h8",
+          "hK",
+          "hA"
+        ],
+        [
+          "sA",
+          "s8",
+          "s5",
+          "h6"
+        ],
+        [
+          "hQ",
+          "sT",
+          "d2",
+          "h9"
+        ],
+        [
+          "c6",
+          "c2",
+          "cA",
+          "c8"
+        ],
+        [
+          "cK",
+          "hT",
+          "c7",
+          "c4"
+        ],
+        [
+          "sK",
+          "h7",
+          "sJ",
+          "d6"
+        ],
+        [
+          "c9",
+          "c5",
+          "c3",
+          "dT"
+        ],
+        [
+          "cT",
+          "cJ",
+          "cQ",
+          "s9"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 3,
+          "EW": 10
+        },
+        "winner": "EW",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c29": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #29",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c4",
+            "c5",
+            "cJ",
+            "d3",
+            "d4",
+            "d9",
+            "h2",
+            "hA",
+            "sT",
+            "sJ",
+            "sQ",
+            "sA"
+          ],
+          "W": [
+            "c3",
+            "cQ",
+            "cK",
+            "cA",
+            "d2",
+            "d6",
+            "dQ",
+            "dK",
+            "dA",
+            "h4",
+            "hJ",
+            "s3",
+            "s8"
+          ],
+          "N": [
+            "c8",
+            "d7",
+            "d8",
+            "dT",
+            "dJ",
+            "h5",
+            "h8",
+            "h9",
+            "hT",
+            "s2",
+            "s5",
+            "s9",
+            "sK"
+          ],
+          "E": [
+            "c6",
+            "c7",
+            "c9",
+            "cT",
+            "d5",
+            "h3",
+            "h6",
+            "h7",
+            "hQ",
+            "hK",
+            "s4",
+            "s6",
+            "s7"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "N",
+        "sequence": [
+          "p",
+          "p",
+          "1C",
+          "1D",
+          "p",
+          "1H",
+          "p",
+          "2C",
+          "p",
+          "2H",
+          "p",
+          "3N",
+          "d",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "W"
+      },
+      "card_play": [
+        [
+          "s2",
+          "s4",
+          "sA",
+          "s3"
+        ],
+        [
+          "sQ",
+          "s8",
+          "s5",
+          "s6"
+        ],
+        [
+          "sJ",
+          "d2",
+          "s9",
+          "s7"
+        ],
+        [
+          "sT",
+          "d6",
+          "sK",
+          "h3"
+        ],
+        [
+          "h5",
+          "h6",
+          "hA",
+          "h4"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 5,
+          "EW": 8
+        },
+        "winner": "NS",
+        "double": "x"
+      }
+    }
+  },
+  "id-74807-o30": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #30",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "cQ",
+            "d2",
+            "d6",
+            "dT",
+            "dQ",
+            "dK",
+            "h3",
+            "h4",
+            "hK",
+            "s2",
+            "sQ",
+            "sA"
+          ],
+          "W": [
+            "c7",
+            "c8",
+            "c9",
+            "cJ",
+            "d4",
+            "d5",
+            "d8",
+            "dA",
+            "h6",
+            "h8",
+            "s7",
+            "s8",
+            "sT"
+          ],
+          "N": [
+            "c2",
+            "c3",
+            "c5",
+            "d3",
+            "d7",
+            "d9",
+            "h2",
+            "h7",
+            "hQ",
+            "hA",
+            "s4",
+            "s9",
+            "sK"
+          ],
+          "E": [
+            "c6",
+            "cT",
+            "cK",
+            "cA",
+            "dJ",
+            "h5",
+            "h9",
+            "hT",
+            "hJ",
+            "s3",
+            "s5",
+            "s6",
+            "sJ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "p",
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "2N",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "h6",
+          "hQ",
+          "h5",
+          "h4"
+        ],
+        [
+          "d3",
+          "dJ",
+          "dK",
+          "dA"
+        ],
+        [
+          "s8",
+          "s4",
+          "s3",
+          "sQ"
+        ],
+        [
+          "d2",
+          "d4",
+          "d9",
+          "c6"
+        ],
+        [
+          "d7",
+          "cT",
+          "dQ",
+          "d5"
+        ],
+        [
+          "dT",
+          "d8",
+          "c2",
+          "s5"
+        ],
+        [
+          "d6",
+          "h8",
+          "c3",
+          "s6"
+        ],
+        [
+          "s2",
+          "s7",
+          "sK",
+          "sJ"
+        ],
+        [
+          "s9",
+          "h9",
+          "sA",
+          "sT"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 10,
+          "EW": 3
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c30": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #30",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c4",
+            "cQ",
+            "d2",
+            "d6",
+            "dT",
+            "dQ",
+            "dK",
+            "h3",
+            "h4",
+            "hK",
+            "s2",
+            "sQ",
+            "sA"
+          ],
+          "W": [
+            "c7",
+            "c8",
+            "c9",
+            "cJ",
+            "d4",
+            "d5",
+            "d8",
+            "dA",
+            "h6",
+            "h8",
+            "s7",
+            "s8",
+            "sT"
+          ],
+          "N": [
+            "c2",
+            "c3",
+            "c5",
+            "d3",
+            "d7",
+            "d9",
+            "h2",
+            "h7",
+            "hQ",
+            "hA",
+            "s4",
+            "s9",
+            "sK"
+          ],
+          "E": [
+            "c6",
+            "cT",
+            "cK",
+            "cA",
+            "dJ",
+            "h5",
+            "h9",
+            "hT",
+            "hJ",
+            "s3",
+            "s5",
+            "s6",
+            "sJ"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "E",
+        "sequence": [
+          "p",
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "2S",
+          "p",
+          "3C",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "c9",
+          "c2",
+          "cK",
+          "c4"
+        ],
+        [
+          "c6",
+          "cQ",
+          "c7",
+          "c3"
+        ],
+        [
+          "h3",
+          "h6",
+          "hQ",
+          "h5"
+        ],
+        [
+          "d3",
+          "dJ",
+          "dK",
+          "dA"
+        ],
+        [
+          "h8",
+          "h2",
+          "h9",
+          "hK"
+        ],
+        [
+          "d2",
+          "d4",
+          "d9",
+          "s3"
+        ],
+        [
+          "d7",
+          "s5",
+          "dQ",
+          "d5"
+        ],
+        [
+          "dT",
+          "d8",
+          "s4",
+          "s6"
+        ],
+        [
+          "s2",
+          "s7",
+          "sK",
+          "sJ"
+        ],
+        [
+          "s9",
+          "cT",
+          "sQ",
+          "s8"
+        ],
+        [
+          "sA",
+          "sT",
+          "c5"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 11,
+          "EW": 2
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-o31": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #31",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c3",
+            "c9",
+            "cA",
+            "d2",
+            "dJ",
+            "dQ",
+            "dA",
+            "h4",
+            "h7",
+            "s7",
+            "sT",
+            "sK"
+          ],
+          "W": [
+            "cJ",
+            "cQ",
+            "d3",
+            "d6",
+            "d9",
+            "dT",
+            "dK",
+            "h8",
+            "hQ",
+            "hK",
+            "s8",
+            "sJ",
+            "sQ"
+          ],
+          "N": [
+            "c4",
+            "c5",
+            "c8",
+            "cT",
+            "cK",
+            "d4",
+            "d7",
+            "h2",
+            "h5",
+            "hT",
+            "s3",
+            "s4",
+            "sA"
+          ],
+          "E": [
+            "c6",
+            "c7",
+            "d5",
+            "d8",
+            "h3",
+            "h6",
+            "h9",
+            "hJ",
+            "hA",
+            "s2",
+            "s5",
+            "s6",
+            "s9"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1D",
+          "p",
+          "1N",
+          "2H",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "2H",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "dA",
+          "d3",
+          "d4",
+          "d5"
+        ],
+        [
+          "h4",
+          "hK",
+          "h2",
+          "h3"
+        ],
+        [
+          "dK",
+          "d7",
+          "d8",
+          "d2"
+        ],
+        [
+          "dT",
+          "c4",
+          "c7",
+          "dJ"
+        ],
+        [
+          "cA",
+          "cJ",
+          "c5",
+          "c6"
+        ],
+        [
+          "c2",
+          "cQ",
+          "cK",
+          "h9"
+        ],
+        [
+          "s2",
+          "s7",
+          "sQ",
+          "sA"
+        ],
+        [
+          "cT",
+          "s5",
+          "c9",
+          "h8"
+        ],
+        [
+          "hQ",
+          "h5",
+          "hA",
+          "h7"
+        ],
+        [
+          "hJ",
+          "sT",
+          "d6",
+          "hT"
+        ],
+        [
+          "s6",
+          "sK",
+          "s8",
+          "s3"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 5,
+          "EW": 8
+        },
+        "winner": "",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c31": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #31",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c2",
+            "c3",
+            "c9",
+            "cA",
+            "d2",
+            "dJ",
+            "dQ",
+            "dA",
+            "h4",
+            "h7",
+            "s7",
+            "sT",
+            "sK"
+          ],
+          "W": [
+            "cJ",
+            "cQ",
+            "d3",
+            "d6",
+            "d9",
+            "dT",
+            "dK",
+            "h8",
+            "hQ",
+            "hK",
+            "s8",
+            "sJ",
+            "sQ"
+          ],
+          "N": [
+            "c4",
+            "c5",
+            "c8",
+            "cT",
+            "cK",
+            "d4",
+            "d7",
+            "h2",
+            "h5",
+            "hT",
+            "s3",
+            "s4",
+            "sA"
+          ],
+          "E": [
+            "c6",
+            "c7",
+            "d5",
+            "d8",
+            "h3",
+            "h6",
+            "h9",
+            "hJ",
+            "hA",
+            "s2",
+            "s5",
+            "s6",
+            "s9"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "S",
+        "sequence": [
+          "1N",
+          "p",
+          "p",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "2H",
+          "p",
+          "4H",
+          "d",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "4H",
+        "declarer": "E"
+      },
+      "card_play": [
+        [
+          "h4",
+          "h8",
+          "h2",
+          "h9"
+        ],
+        [
+          "d5",
+          "dA",
+          "d3",
+          "d4"
+        ],
+        [
+          "cA",
+          "cJ",
+          "c4",
+          "c7"
+        ],
+        [
+          "c2",
+          "cQ",
+          "cK",
+          "c6"
+        ],
+        [
+          "s4",
+          "s6",
+          "sK",
+          "s8"
+        ],
+        [
+          "s7",
+          "sJ",
+          "sA",
+          "s5"
+        ],
+        [
+          "s3",
+          "s2",
+          "sT",
+          "sQ"
+        ],
+        [
+          "hQ",
+          "h5",
+          "h3",
+          "h7"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 5,
+          "EW": 8
+        },
+        "winner": "NS",
+        "double": "x"
+      }
+    }
+  },
+  "id-74807-o32": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Open Room, #32",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Daehr",
+        "W": "Rops",
+        "N": "Buchlev",
+        "E": "Fritsche"
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "cQ",
+            "cA",
+            "d4",
+            "d5",
+            "hT",
+            "hQ",
+            "hA",
+            "s3",
+            "s5",
+            "s7",
+            "sQ",
+            "sK"
+          ],
+          "W": [
+            "c5",
+            "c6",
+            "c9",
+            "d3",
+            "dJ",
+            "dQ",
+            "h2",
+            "h3",
+            "h5",
+            "h8",
+            "h9",
+            "hJ",
+            "s4"
+          ],
+          "N": [
+            "c7",
+            "cT",
+            "cJ",
+            "cK",
+            "d7",
+            "d8",
+            "dT",
+            "dK",
+            "dA",
+            "h4",
+            "h7",
+            "s8",
+            "sT"
+          ],
+          "E": [
+            "c2",
+            "c4",
+            "c8",
+            "d2",
+            "d6",
+            "d9",
+            "h6",
+            "hK",
+            "s2",
+            "s6",
+            "s9",
+            "sJ",
+            "sA"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "p",
+          "1D",
+          "p",
+          "1S",
+          "p",
+          "2C",
+          "p",
+          "2H",
+          "p",
+          "3D",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "h2",
+          "h4",
+          "hK",
+          "hA"
+        ],
+        [
+          "c3",
+          "c5",
+          "cJ",
+          "c8"
+        ],
+        [
+          "sT",
+          "sA",
+          "s3",
+          "s4"
+        ],
+        [
+          "h6",
+          "hQ",
+          "h3",
+          "h7"
+        ],
+        [
+          "cA",
+          "c6",
+          "c7",
+          "c4"
+        ],
+        [
+          "cQ",
+          "c9",
+          "cK",
+          "c2"
+        ],
+        [
+          "cT",
+          "d6",
+          "d5",
+          "h5"
+        ],
+        [
+          "s8",
+          "s9",
+          "sK",
+          "h8"
+        ],
+        [
+          "sQ",
+          "h9",
+          "d7",
+          "s2"
+        ],
+        [
+          "d4",
+          "dQ",
+          "dA"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 10,
+          "EW": 3
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  },
+  "id-74807-c32": {
+    "metadata": {
+      "event": "Team Bundesligen 2022 - Round Robin 6 of 9, Close Room, #32",
+      "source": "https://www.bridgebase.com/tools/vugraph_linfetch.php?id=74807",
+      "players": {
+        "S": "Gawel",
+        "W": "Hopfenheit",
+        "N": "Jagniewski",
+        "E": "Reim "
+      }
+    },
+    "data": {
+      "initial": {
+        "cards": {
+          "S": [
+            "c3",
+            "cQ",
+            "cA",
+            "d4",
+            "d5",
+            "hT",
+            "hQ",
+            "hA",
+            "s3",
+            "s5",
+            "s7",
+            "sQ",
+            "sK"
+          ],
+          "W": [
+            "c5",
+            "c6",
+            "c9",
+            "d3",
+            "dJ",
+            "dQ",
+            "h2",
+            "h3",
+            "h5",
+            "h8",
+            "h9",
+            "hJ",
+            "s4"
+          ],
+          "N": [
+            "c7",
+            "cT",
+            "cJ",
+            "cK",
+            "d7",
+            "d8",
+            "dT",
+            "dK",
+            "dA",
+            "h4",
+            "h7",
+            "s8",
+            "sT"
+          ],
+          "E": [
+            "c2",
+            "c4",
+            "c8",
+            "d2",
+            "d6",
+            "d9",
+            "h6",
+            "hK",
+            "s2",
+            "s6",
+            "s9",
+            "sJ",
+            "sA"
+          ]
+        }
+      },
+      "bidding": {
+        "dealer": "W",
+        "sequence": [
+          "p",
+          "1D",
+          "p",
+          "1N",
+          "p",
+          "2C",
+          "p",
+          "2D",
+          "p",
+          "2H",
+          "p",
+          "2S",
+          "p",
+          "2N",
+          "p",
+          "3N",
+          "p",
+          "p",
+          "p"
+        ],
+        "final": "3N",
+        "declarer": "S"
+      },
+      "card_play": [
+        [
+          "h5",
+          "h4",
+          "hK",
+          "hA"
+        ],
+        [
+          "c3",
+          "c5",
+          "cT",
+          "c2"
+        ],
+        [
+          "s8",
+          "sA",
+          "s3",
+          "s4"
+        ],
+        [
+          "h6",
+          "hQ",
+          "h2",
+          "h7"
+        ],
+        [
+          "cA",
+          "c6",
+          "c7",
+          "c4"
+        ],
+        [
+          "cQ",
+          "c9",
+          "cK",
+          "c8"
+        ],
+        [
+          "cJ",
+          "s2",
+          "d4",
+          "h8"
+        ],
+        [
+          "sT",
+          "sJ",
+          "sK",
+          "h3"
+        ],
+        [
+          "sQ"
+        ]
+      ],
+      "result": {
+        "tricks_taken": {
+          "NS": 10,
+          "EW": 3
+        },
+        "winner": "NS",
+        "double": ""
+      }
+    }
+  }
+}
