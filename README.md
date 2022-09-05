@@ -14,3 +14,11 @@ This parser is easy to use:
   - the final `.json` file is in `data.json`
 
 - if you want to clean all the data (including raw data and json data), just run `bash clean.sh` in your shell
+
+Here I also list some open-source Bridge Game AI that can be found in Github:
+- https://github.com/oriyanh/Bridge-AI
+  - Language: Python3
+  - Algorithm: Monte Carlo Tree Search
+- https://github.com/ifplusor/alphabridge
+  - Language: C++
+  - Algorithm: CFR
